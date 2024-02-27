@@ -1,0 +1,1471 @@
+Performance_id,environment_satisf,environment_satisf_cat,worklife_balance,worklife_balance_cat,job_involvement,job_involvement_cat,job_satisfaction,job_satisf_cat,performance_rating,performance_rating_cat,relationship_satisf,relationship_satisf_cat
+1,2,Medium,1,Bad,3,High,4,Very High,3,Excellent,1,Low
+2,3,High,3,Better,2,Medium,2,Medium,4,Outstanding,4,Very High
+3,4,Very High,3,Better,2,Medium,3,High,3,Excellent,2,Medium
+4,4,Very High,3,Better,3,High,3,High,3,Excellent,3,High
+5,1,Low,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+6,4,Very High,2,Good,3,High,4,Very High,3,Excellent,3,High
+7,3,High,2,Good,4,Very High,1,Low,4,Outstanding,1,Low
+8,4,Very High,3,Better,3,High,3,High,4,Outstanding,2,Medium
+9,4,Very High,3,Better,2,Medium,3,High,4,Outstanding,2,Medium
+10,3,High,2,Good,3,High,3,High,3,Excellent,2,Medium
+11,1,Low,3,Better,4,Very High,2,Medium,3,Excellent,3,High
+12,4,Very High,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+13,1,Low,2,Good,3,High,3,High,3,Excellent,4,Very High
+14,2,Medium,3,Better,3,High,4,Very High,3,Excellent,3,High
+15,3,High,3,Better,2,Medium,3,High,3,Excellent,2,Medium
+16,2,Medium,3,Better,4,Very High,1,Low,3,Excellent,3,High
+17,1,Low,2,Good,4,Very High,2,Medium,3,Excellent,4,Very High
+18,4,Very High,2,Good,4,Very High,4,Very High,3,Excellent,2,Medium
+19,1,Low,3,Better,2,Medium,4,Very High,3,Excellent,3,High
+20,4,Very High,3,Better,3,High,4,Very High,3,Excellent,3,High
+21,1,Low,2,Good,4,Very High,3,High,3,Excellent,4,Very High
+22,3,High,3,Better,2,Medium,1,Low,4,Outstanding,2,Medium
+23,1,Low,3,Better,3,High,2,Medium,3,Excellent,3,High
+24,3,High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+25,2,Medium,3,Better,3,High,1,Low,3,Excellent,3,High
+26,3,High,2,Good,3,High,3,High,3,Excellent,4,Very High
+27,2,Medium,3,Better,1,Low,1,Low,4,Outstanding,2,Medium
+28,3,High,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+29,1,Low,3,Better,2,Medium,4,Very High,3,Excellent,4,Very High
+30,2,Medium,2,Good,3,High,1,Low,3,Excellent,4,Very High
+31,3,High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+32,4,Very High,4,Best,3,High,4,Very High,3,Excellent,4,Very High
+33,4,Very High,3,Better,2,Medium,3,High,3,Excellent,1,Low
+34,4,Very High,4,Best,3,High,4,Very High,3,Excellent,3,High
+35,2,Medium,2,Good,3,High,4,Very High,3,Excellent,1,Low
+36,4,Very High,2,Good,4,Very High,3,High,3,Excellent,4,Very High
+37,1,Low,3,Better,2,Medium,3,High,3,Excellent,3,High
+38,4,Very High,3,Better,3,High,4,Very High,3,Excellent,1,Low
+39,2,Medium,4,Best,2,Medium,1,Low,3,Excellent,4,Very High
+40,3,High,3,Better,4,Very High,1,Low,3,Excellent,1,Low
+41,3,High,3,Better,3,High,4,Very High,3,Excellent,3,High
+42,4,Very High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+43,1,Low,2,Good,1,Low,3,High,3,Excellent,3,High
+44,4,Very High,3,Better,3,High,3,High,3,Excellent,4,Very High
+45,3,High,3,Better,3,High,4,Very High,4,Outstanding,4,Very High
+46,2,Medium,3,Better,3,High,3,High,3,Excellent,4,Very High
+47,2,Medium,3,Better,3,High,3,High,4,Outstanding,3,High
+48,2,Medium,3,Better,3,High,2,Medium,4,Outstanding,1,Low
+49,1,Low,3,Better,3,High,4,Very High,4,Outstanding,3,High
+50,4,Very High,3,Better,4,Very High,4,Very High,3,Excellent,4,Very High
+51,1,Low,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+52,3,High,2,Good,3,High,3,High,3,Excellent,3,High
+53,2,Medium,2,Good,3,High,1,Low,4,Outstanding,3,High
+54,3,High,3,Better,2,Medium,1,Low,3,Excellent,3,High
+55,3,High,2,Good,2,Medium,4,Very High,3,Excellent,3,High
+56,1,Low,3,Better,3,High,4,Very High,3,Excellent,3,High
+57,2,Medium,2,Good,3,High,1,Low,4,Outstanding,4,Very High
+58,3,High,3,Better,3,High,1,Low,3,Excellent,3,High
+59,4,Very High,2,Good,3,High,4,Very High,4,Outstanding,4,Very High
+60,1,Low,4,Best,2,Medium,3,High,3,Excellent,3,High
+61,1,Low,3,Better,3,High,4,Very High,4,Outstanding,2,Medium
+62,4,Very High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+63,2,Medium,2,Good,2,Medium,3,High,3,Excellent,4,Very High
+64,1,Low,2,Good,3,High,1,Low,3,Excellent,4,Very High
+65,3,High,3,Better,3,High,3,High,3,Excellent,2,Medium
+66,4,Very High,3,Better,3,High,3,High,3,Excellent,3,High
+67,2,Medium,3,Better,2,Medium,2,Medium,3,Excellent,3,High
+68,2,Medium,3,Better,3,High,1,Low,3,Excellent,3,High
+69,2,Medium,2,Good,3,High,1,Low,3,Excellent,4,Very High
+70,4,Very High,2,Good,2,Medium,3,High,3,Excellent,1,Low
+71,1,Low,2,Good,2,Medium,3,High,3,Excellent,4,Very High
+72,3,High,3,Better,3,High,2,Medium,4,Outstanding,4,Very High
+73,3,High,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+74,2,Medium,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+75,2,Medium,3,Better,4,Very High,4,Very High,3,Excellent,2,Medium
+76,3,High,3,Better,3,High,4,Very High,4,Outstanding,4,Very High
+77,3,High,3,Better,2,Medium,1,Low,3,Excellent,2,Medium
+78,4,Very High,4,Best,3,High,1,Low,3,Excellent,2,Medium
+79,1,Low,4,Best,3,High,3,High,3,Excellent,1,Low
+80,2,Medium,3,Better,3,High,2,Medium,4,Outstanding,4,Very High
+81,4,Very High,2,Good,2,Medium,4,Very High,3,Excellent,3,High
+82,2,Medium,3,Better,2,Medium,3,High,3,Excellent,1,Low
+83,1,Low,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+84,2,Medium,3,Better,1,Low,4,Very High,3,Excellent,4,Very High
+85,1,Low,3,Better,3,High,2,Medium,3,Excellent,3,High
+86,4,Very High,2,Good,1,Low,4,Very High,3,Excellent,1,Low
+87,3,High,3,Better,3,High,1,Low,3,Excellent,3,High
+88,4,Very High,3,Better,3,High,4,Very High,4,Outstanding,2,Medium
+89,3,High,3,Better,2,Medium,4,Very High,3,Excellent,1,Low
+90,3,High,3,Better,2,Medium,4,Very High,3,Excellent,4,Very High
+91,3,High,2,Good,2,Medium,2,Medium,4,Outstanding,4,Very High
+92,3,High,1,Bad,3,High,4,Very High,4,Outstanding,4,Very High
+93,3,High,2,Good,2,Medium,2,Medium,3,Excellent,2,Medium
+94,3,High,2,Good,2,Medium,1,Low,3,Excellent,3,High
+95,2,Medium,3,Better,3,High,3,High,3,Excellent,1,Low
+96,1,Low,1,Bad,3,High,3,High,3,Excellent,1,Low
+97,1,Low,2,Good,3,High,3,High,4,Outstanding,1,Low
+98,2,Medium,4,Best,3,High,3,High,3,Excellent,2,Medium
+99,4,Very High,2,Good,3,High,3,High,3,Excellent,3,High
+100,2,Medium,4,Best,3,High,2,Medium,3,Excellent,3,High
+101,3,High,3,Better,3,High,1,Low,4,Outstanding,4,Very High
+102,4,Very High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+103,4,Very High,3,Better,2,Medium,4,Very High,3,Excellent,2,Medium
+104,1,Low,3,Better,3,High,3,High,3,Excellent,3,High
+105,3,High,4,Best,2,Medium,4,Very High,3,Excellent,4,Very High
+106,3,High,3,Better,2,Medium,4,Very High,4,Outstanding,4,Very High
+107,1,Low,2,Good,3,High,2,Medium,3,Excellent,1,Low
+108,3,High,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+109,4,Very High,3,Better,2,Medium,4,Very High,3,Excellent,3,High
+110,2,Medium,3,Better,3,High,4,Very High,3,Excellent,3,High
+111,1,Low,2,Good,2,Medium,1,Low,4,Outstanding,3,High
+112,1,Low,3,Better,1,Low,3,High,4,Outstanding,4,Very High
+113,4,Very High,3,Better,4,Very High,4,Very High,3,Excellent,3,High
+114,2,Medium,3,Better,3,High,3,High,3,Excellent,3,High
+115,3,High,3,Better,2,Medium,2,Medium,3,Excellent,3,High
+116,3,High,3,Better,3,High,4,Very High,3,Excellent,1,Low
+117,3,High,3,Better,2,Medium,1,Low,3,Excellent,4,Very High
+118,2,Medium,3,Better,3,High,4,Very High,3,Excellent,3,High
+119,1,Low,3,Better,3,High,4,Very High,4,Outstanding,1,Low
+120,3,High,4,Best,3,High,4,Very High,3,Excellent,4,Very High
+121,1,Low,2,Good,1,Low,3,High,4,Outstanding,3,High
+122,3,High,4,Best,3,High,2,Medium,3,Excellent,1,Low
+123,2,Medium,3,Better,3,High,2,Medium,3,Excellent,1,Low
+124,1,Low,3,Better,3,High,3,High,3,Excellent,3,High
+125,2,Medium,2,Good,1,Low,3,High,3,Excellent,2,Medium
+126,3,High,2,Good,2,Medium,2,Medium,3,Excellent,3,High
+127,4,Very High,2,Good,3,High,4,Very High,3,Excellent,4,Very High
+128,4,Very High,2,Good,3,High,3,High,3,Excellent,4,Very High
+129,3,High,3,Better,3,High,4,Very High,3,Excellent,3,High
+130,3,High,2,Good,3,High,1,Low,3,Excellent,3,High
+131,2,Medium,3,Better,4,Very High,3,High,3,Excellent,4,Very High
+132,3,High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+133,2,Medium,3,Better,1,Low,3,High,3,Excellent,3,High
+134,3,High,3,Better,3,High,3,High,3,Excellent,3,High
+135,3,High,3,Better,3,High,3,High,4,Outstanding,4,Very High
+136,2,Medium,3,Better,3,High,2,Medium,4,Outstanding,4,Very High
+137,1,Low,3,Better,1,Low,4,Very High,3,Excellent,4,Very High
+138,4,Very High,4,Best,2,Medium,3,High,3,Excellent,3,High
+139,1,Low,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+140,3,High,1,Bad,3,High,4,Very High,3,Excellent,4,Very High
+141,1,Low,4,Best,3,High,1,Low,4,Outstanding,1,Low
+142,3,High,2,Good,3,High,4,Very High,3,Excellent,2,Medium
+143,4,Very High,3,Better,3,High,3,High,4,Outstanding,2,Medium
+144,1,Low,2,Good,3,High,3,High,3,Excellent,3,High
+145,4,Very High,4,Best,1,Low,4,Very High,3,Excellent,4,Very High
+146,4,Very High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+147,2,Medium,3,Better,2,Medium,4,Very High,3,Excellent,4,Very High
+148,4,Very High,2,Good,2,Medium,1,Low,3,Excellent,2,Medium
+149,3,High,3,Better,3,High,1,Low,4,Outstanding,4,Very High
+150,2,Medium,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+151,2,Medium,3,Better,3,High,2,Medium,3,Excellent,1,Low
+152,3,High,3,Better,3,High,2,Medium,3,Excellent,1,Low
+153,2,Medium,1,Bad,3,High,3,High,4,Outstanding,4,Very High
+154,2,Medium,1,Bad,3,High,2,Medium,3,Excellent,3,High
+155,2,Medium,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+156,4,Very High,3,Better,3,High,3,High,3,Excellent,1,Low
+157,2,Medium,3,Better,2,Medium,3,High,3,Excellent,3,High
+158,2,Medium,2,Good,2,Medium,2,Medium,4,Outstanding,2,Medium
+159,3,High,2,Good,2,Medium,4,Very High,3,Excellent,1,Low
+160,3,High,3,Better,3,High,3,High,3,Excellent,4,Very High
+161,3,High,3,Better,3,High,4,Very High,4,Outstanding,1,Low
+162,4,Very High,1,Bad,3,High,2,Medium,3,Excellent,4,Very High
+163,3,High,1,Bad,3,High,4,Very High,3,Excellent,3,High
+164,3,High,1,Bad,4,Very High,4,Very High,3,Excellent,2,Medium
+165,3,High,2,Good,2,Medium,3,High,3,Excellent,4,Very High
+166,3,High,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+167,1,Low,3,Better,3,High,3,High,3,Excellent,1,Low
+168,2,Medium,3,Better,3,High,4,Very High,3,Excellent,3,High
+169,1,Low,4,Best,2,Medium,4,Very High,4,Outstanding,3,High
+170,3,High,3,Better,3,High,3,High,4,Outstanding,1,Low
+171,3,High,2,Good,3,High,2,Medium,3,Excellent,4,Very High
+172,3,High,4,Best,1,Low,1,Low,4,Outstanding,1,Low
+173,4,Very High,2,Good,3,High,2,Medium,3,Excellent,3,High
+174,3,High,3,Better,3,High,1,Low,3,Excellent,3,High
+175,3,High,4,Best,3,High,1,Low,3,Excellent,1,Low
+176,3,High,3,Better,3,High,1,Low,3,Excellent,3,High
+177,3,High,4,Best,3,High,4,Very High,3,Excellent,1,Low
+178,2,Medium,2,Good,2,Medium,4,Very High,4,Outstanding,3,High
+179,2,Medium,3,Better,3,High,1,Low,4,Outstanding,3,High
+180,3,High,3,Better,3,High,4,Very High,3,Excellent,3,High
+181,3,High,3,Better,3,High,4,Very High,4,Outstanding,3,High
+182,4,Very High,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+183,2,Medium,2,Good,3,High,2,Medium,4,Outstanding,4,Very High
+184,3,High,2,Good,2,Medium,3,High,3,Excellent,4,Very High
+185,4,Very High,3,Better,4,Very High,1,Low,3,Excellent,3,High
+186,4,Very High,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+187,4,Very High,3,Better,3,High,3,High,3,Excellent,2,Medium
+188,3,High,3,Better,4,Very High,2,Medium,3,Excellent,4,Very High
+189,4,Very High,2,Good,2,Medium,3,High,3,Excellent,3,High
+190,4,Very High,3,Better,3,High,2,Medium,3,Excellent,3,High
+191,3,High,3,Better,2,Medium,3,High,3,Excellent,1,Low
+192,4,Very High,2,Good,3,High,2,Medium,3,Excellent,4,Very High
+193,2,Medium,3,Better,2,Medium,3,High,3,Excellent,1,Low
+194,4,Very High,4,Best,4,Very High,4,Very High,3,Excellent,4,Very High
+195,1,Low,3,Better,2,Medium,4,Very High,4,Outstanding,4,Very High
+196,2,Medium,2,Good,4,Very High,1,Low,3,Excellent,1,Low
+197,2,Medium,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+198,3,High,3,Better,3,High,3,High,3,Excellent,2,Medium
+199,4,Very High,3,Better,3,High,3,High,3,Excellent,2,Medium
+200,4,Very High,1,Bad,3,High,4,Very High,3,Excellent,1,Low
+201,3,High,3,Better,2,Medium,1,Low,3,Excellent,3,High
+202,4,Very High,3,Better,3,High,4,Very High,3,Excellent,1,Low
+203,4,Very High,4,Best,3,High,3,High,3,Excellent,4,Very High
+204,3,High,4,Best,3,High,4,Very High,3,Excellent,3,High
+205,2,Medium,3,Better,3,High,1,Low,3,Excellent,2,Medium
+206,2,Medium,2,Good,3,High,4,Very High,4,Outstanding,4,Very High
+207,4,Very High,2,Good,4,Very High,2,Medium,3,Excellent,1,Low
+208,2,Medium,3,Better,3,High,4,Very High,3,Excellent,1,Low
+209,4,Very High,1,Bad,2,Medium,4,Very High,3,Excellent,4,Very High
+210,4,Very High,3,Better,3,High,1,Low,3,Excellent,3,High
+211,4,Very High,2,Good,1,Low,4,Very High,3,Excellent,3,High
+212,3,High,3,Better,2,Medium,3,High,4,Outstanding,3,High
+213,4,Very High,3,Better,3,High,3,High,3,Excellent,4,Very High
+214,2,Medium,1,Bad,2,Medium,2,Medium,3,Excellent,4,Very High
+215,4,Very High,3,Better,3,High,1,Low,3,Excellent,3,High
+216,4,Very High,3,Better,3,High,4,Very High,3,Excellent,3,High
+217,3,High,2,Good,2,Medium,1,Low,3,Excellent,3,High
+218,3,High,2,Good,3,High,3,High,3,Excellent,4,Very High
+219,4,Very High,3,Better,2,Medium,4,Very High,3,Excellent,4,Very High
+220,4,Very High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+221,4,Very High,4,Best,3,High,2,Medium,3,Excellent,4,Very High
+222,3,High,3,Better,2,Medium,2,Medium,4,Outstanding,4,Very High
+223,2,Medium,3,Better,3,High,4,Very High,3,Excellent,3,High
+224,1,Low,2,Good,3,High,3,High,3,Excellent,3,High
+225,3,High,3,Better,1,Low,3,High,3,Excellent,4,Very High
+226,3,High,3,Better,2,Medium,4,Very High,3,Excellent,1,Low
+227,1,Low,3,Better,3,High,4,Very High,3,Excellent,3,High
+228,2,Medium,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+229,3,High,4,Best,3,High,3,High,3,Excellent,1,Low
+230,3,High,2,Good,2,Medium,4,Very High,3,Excellent,3,High
+231,3,High,2,Good,2,Medium,4,Very High,3,Excellent,2,Medium
+232,3,High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+233,2,Medium,2,Good,3,High,3,High,3,Excellent,4,Very High
+234,4,Very High,2,Good,3,High,4,Very High,3,Excellent,3,High
+235,3,High,1,Bad,3,High,4,Very High,3,Excellent,3,High
+236,4,Very High,3,Better,3,High,4,Very High,4,Outstanding,3,High
+237,1,Low,4,Best,3,High,1,Low,4,Outstanding,1,Low
+238,1,Low,4,Best,2,Medium,3,High,3,Excellent,4,Very High
+239,3,High,3,Better,3,High,2,Medium,3,Excellent,1,Low
+240,4,Very High,1,Bad,2,Medium,3,High,3,Excellent,4,Very High
+241,3,High,3,Better,3,High,3,High,3,Excellent,3,High
+242,3,High,3,Better,3,High,4,Very High,3,Excellent,1,Low
+243,3,High,2,Good,3,High,1,Low,3,Excellent,1,Low
+244,1,Low,3,Better,3,High,4,Very High,3,Excellent,1,Low
+245,3,High,3,Better,4,Very High,4,Very High,3,Excellent,3,High
+246,2,Medium,3,Better,3,High,3,High,3,Excellent,1,Low
+247,3,High,2,Good,2,Medium,4,Very High,3,Excellent,3,High
+248,4,Very High,3,Better,2,Medium,1,Low,3,Excellent,2,Medium
+249,3,High,2,Good,2,Medium,1,Low,3,Excellent,1,Low
+250,1,Low,3,Better,4,Very High,3,High,3,Excellent,4,Very High
+251,1,Low,3,Better,3,High,3,High,3,Excellent,2,Medium
+252,3,High,3,Better,3,High,3,High,4,Outstanding,4,Very High
+253,3,High,3,Better,3,High,4,Very High,3,Excellent,1,Low
+254,4,Very High,3,Better,4,Very High,1,Low,3,Excellent,3,High
+255,4,Very High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+256,1,Low,3,Better,3,High,3,High,3,Excellent,4,Very High
+257,4,Very High,3,Better,2,Medium,1,Low,3,Excellent,3,High
+258,1,Low,3,Better,3,High,3,High,3,Excellent,4,Very High
+259,3,High,2,Good,3,High,4,Very High,3,Excellent,2,Medium
+260,3,High,4,Best,2,Medium,2,Medium,3,Excellent,2,Medium
+261,2,Medium,1,Bad,4,Very High,2,Medium,4,Outstanding,3,High
+262,4,Very High,3,Better,2,Medium,4,Very High,3,Excellent,4,Very High
+263,4,Very High,3,Better,2,Medium,1,Low,3,Excellent,4,Very High
+264,3,High,2,Good,1,Low,2,Medium,3,Excellent,2,Medium
+265,1,Low,1,Bad,3,High,3,High,3,Excellent,3,High
+266,1,Low,3,Better,2,Medium,2,Medium,3,Excellent,2,Medium
+267,2,Medium,3,Better,2,Medium,4,Very High,4,Outstanding,2,Medium
+268,2,Medium,3,Better,4,Very High,1,Low,3,Excellent,4,Very High
+269,3,High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+270,4,Very High,3,Better,3,High,4,Very High,3,Excellent,3,High
+271,4,Very High,3,Better,3,High,1,Low,3,Excellent,3,High
+272,1,Low,2,Good,3,High,2,Medium,3,Excellent,4,Very High
+273,4,Very High,2,Good,3,High,4,Very High,4,Outstanding,4,Very High
+274,3,High,4,Best,3,High,4,Very High,3,Excellent,2,Medium
+275,4,Very High,4,Best,2,Medium,3,High,3,Excellent,1,Low
+276,1,Low,3,Better,3,High,4,Very High,3,Excellent,1,Low
+277,2,Medium,2,Good,4,Very High,2,Medium,3,Excellent,2,Medium
+278,1,Low,3,Better,4,Very High,1,Low,4,Outstanding,3,High
+279,3,High,1,Bad,3,High,2,Medium,4,Outstanding,1,Low
+280,1,Low,2,Good,3,High,2,Medium,3,Excellent,1,Low
+281,3,High,2,Good,3,High,3,High,3,Excellent,4,Very High
+282,2,Medium,3,Better,3,High,3,High,4,Outstanding,3,High
+283,2,Medium,2,Good,3,High,4,Very High,3,Excellent,1,Low
+284,2,Medium,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+285,1,Low,3,Better,3,High,1,Low,3,Excellent,3,High
+286,4,Very High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+287,4,Very High,1,Bad,3,High,3,High,4,Outstanding,4,Very High
+288,4,Very High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+289,1,Low,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+290,4,Very High,3,Better,3,High,4,Very High,4,Outstanding,4,Very High
+291,3,High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+292,3,High,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+293,4,Very High,2,Good,3,High,2,Medium,3,Excellent,3,High
+294,4,Very High,3,Better,2,Medium,4,Very High,3,Excellent,2,Medium
+295,2,Medium,2,Good,3,High,4,Very High,3,Excellent,3,High
+296,3,High,4,Best,3,High,2,Medium,3,Excellent,4,Very High
+297,3,High,3,Better,3,High,3,High,3,Excellent,3,High
+298,3,High,2,Good,3,High,2,Medium,3,Excellent,3,High
+299,3,High,3,Better,4,Very High,4,Very High,3,Excellent,4,Very High
+300,4,Very High,3,Better,1,Low,2,Medium,3,Excellent,4,Very High
+301,4,Very High,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+302,4,Very High,3,Better,2,Medium,3,High,3,Excellent,1,Low
+303,2,Medium,3,Better,4,Very High,1,Low,3,Excellent,3,High
+304,2,Medium,2,Good,4,Very High,4,Very High,3,Excellent,2,Medium
+305,3,High,2,Good,4,Very High,4,Very High,3,Excellent,1,Low
+306,2,Medium,3,Better,3,High,2,Medium,3,Excellent,3,High
+307,4,Very High,2,Good,2,Medium,3,High,3,Excellent,3,High
+308,1,Low,3,Better,2,Medium,2,Medium,3,Excellent,3,High
+309,4,Very High,3,Better,1,Low,3,High,3,Excellent,4,Very High
+310,3,High,3,Better,3,High,4,Very High,3,Excellent,3,High
+311,1,Low,3,Better,2,Medium,1,Low,3,Excellent,4,Very High
+312,1,Low,3,Better,3,High,1,Low,3,Excellent,1,Low
+313,3,High,1,Bad,3,High,4,Very High,3,Excellent,2,Medium
+314,4,Very High,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+315,3,High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+316,3,High,3,Better,3,High,4,Very High,3,Excellent,1,Low
+317,3,High,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+318,3,High,2,Good,2,Medium,2,Medium,3,Excellent,1,Low
+319,3,High,2,Good,3,High,2,Medium,3,Excellent,2,Medium
+320,3,High,3,Better,2,Medium,2,Medium,3,Excellent,4,Very High
+321,4,Very High,3,Better,3,High,3,High,3,Excellent,1,Low
+322,4,Very High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+323,1,Low,2,Good,4,Very High,4,Very High,3,Excellent,3,High
+324,1,Low,2,Good,1,Low,4,Very High,3,Excellent,4,Very High
+325,4,Very High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+326,3,High,3,Better,2,Medium,3,High,4,Outstanding,1,Low
+327,3,High,3,Better,2,Medium,4,Very High,3,Excellent,1,Low
+328,4,Very High,2,Good,3,High,3,High,3,Excellent,1,Low
+329,2,Medium,2,Good,2,Medium,4,Very High,3,Excellent,3,High
+330,4,Very High,3,Better,3,High,3,High,3,Excellent,2,Medium
+331,3,High,4,Best,2,Medium,3,High,3,Excellent,2,Medium
+332,3,High,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+333,4,Very High,2,Good,3,High,3,High,3,Excellent,4,Very High
+334,3,High,2,Good,3,High,1,Low,3,Excellent,1,Low
+335,4,Very High,3,Better,3,High,4,Very High,3,Excellent,1,Low
+336,2,Medium,2,Good,1,Low,4,Very High,4,Outstanding,3,High
+337,2,Medium,2,Good,1,Low,1,Low,3,Excellent,4,Very High
+338,2,Medium,3,Better,2,Medium,4,Very High,3,Excellent,3,High
+339,4,Very High,3,Better,2,Medium,3,High,3,Excellent,3,High
+340,2,Medium,3,Better,3,High,2,Medium,3,Excellent,1,Low
+341,4,Very High,2,Good,3,High,4,Very High,3,Excellent,3,High
+342,3,High,3,Better,2,Medium,4,Very High,3,Excellent,2,Medium
+343,3,High,2,Good,3,High,4,Very High,3,Excellent,3,High
+344,4,Very High,3,Better,2,Medium,2,Medium,3,Excellent,1,Low
+345,3,High,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+346,3,High,2,Good,3,High,4,Very High,3,Excellent,3,High
+347,4,Very High,3,Better,2,Medium,2,Medium,3,Excellent,4,Very High
+348,2,Medium,3,Better,3,High,3,High,3,Excellent,1,Low
+349,1,Low,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+350,4,Very High,2,Good,3,High,3,High,3,Excellent,1,Low
+351,3,High,3,Better,3,High,3,High,3,Excellent,3,High
+352,3,High,3,Better,3,High,2,Medium,3,Excellent,3,High
+353,1,Low,1,Bad,3,High,3,High,4,Outstanding,2,Medium
+354,3,High,3,Better,4,Very High,1,Low,3,Excellent,1,Low
+355,4,Very High,4,Best,3,High,3,High,3,Excellent,2,Medium
+356,3,High,3,Better,3,High,3,High,3,Excellent,2,Medium
+357,1,Low,3,Better,2,Medium,4,Very High,4,Outstanding,2,Medium
+358,1,Low,3,Better,2,Medium,2,Medium,3,Excellent,3,High
+359,4,Very High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+360,1,Low,3,Better,2,Medium,4,Very High,3,Excellent,1,Low
+361,4,Very High,3,Better,3,High,3,High,3,Excellent,3,High
+362,4,Very High,3,Better,4,Very High,3,High,3,Excellent,3,High
+363,1,Low,2,Good,3,High,4,Very High,4,Outstanding,3,High
+364,4,Very High,3,Better,3,High,3,High,3,Excellent,2,Medium
+365,3,High,3,Better,3,High,1,Low,4,Outstanding,2,Medium
+366,3,High,4,Best,3,High,3,High,3,Excellent,3,High
+367,1,Low,3,Better,3,High,2,Medium,3,Excellent,3,High
+368,4,Very High,3,Better,2,Medium,4,Very High,3,Excellent,4,Very High
+369,3,High,3,Better,2,Medium,3,High,3,Excellent,1,Low
+370,3,High,3,Better,2,Medium,2,Medium,3,Excellent,4,Very High
+371,3,High,3,Better,4,Very High,2,Medium,3,Excellent,4,Very High
+372,4,Very High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+373,3,High,3,Better,2,Medium,2,Medium,3,Excellent,3,High
+374,4,Very High,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+375,2,Medium,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+376,2,Medium,3,Better,2,Medium,3,High,4,Outstanding,3,High
+377,3,High,2,Good,3,High,4,Very High,3,Excellent,3,High
+378,4,Very High,3,Better,3,High,3,High,3,Excellent,2,Medium
+379,1,Low,2,Good,4,Very High,4,Very High,3,Excellent,2,Medium
+380,3,High,3,Better,3,High,4,Very High,3,Excellent,3,High
+381,4,Very High,4,Best,3,High,3,High,3,Excellent,4,Very High
+382,3,High,3,Better,3,High,2,Medium,3,Excellent,1,Low
+383,3,High,3,Better,3,High,1,Low,4,Outstanding,3,High
+384,1,Low,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+385,2,Medium,3,Better,2,Medium,3,High,3,Excellent,2,Medium
+386,3,High,3,Better,3,High,4,Very High,4,Outstanding,3,High
+387,4,Very High,2,Good,3,High,1,Low,3,Excellent,3,High
+388,4,Very High,3,Better,3,High,2,Medium,3,Excellent,3,High
+389,2,Medium,3,Better,3,High,1,Low,3,Excellent,2,Medium
+390,3,High,2,Good,3,High,2,Medium,3,Excellent,4,Very High
+391,1,Low,3,Better,2,Medium,2,Medium,3,Excellent,3,High
+392,2,Medium,3,Better,2,Medium,3,High,4,Outstanding,2,Medium
+393,1,Low,2,Good,3,High,1,Low,3,Excellent,3,High
+394,3,High,3,Better,3,High,3,High,3,Excellent,1,Low
+395,2,Medium,1,Bad,3,High,1,Low,3,Excellent,2,Medium
+396,4,Very High,3,Better,3,High,4,Very High,4,Outstanding,1,Low
+397,3,High,3,Better,3,High,3,High,3,Excellent,4,Very High
+398,2,Medium,3,Better,2,Medium,4,Very High,3,Excellent,2,Medium
+399,2,Medium,3,Better,3,High,3,High,3,Excellent,1,Low
+400,4,Very High,3,Better,2,Medium,1,Low,3,Excellent,3,High
+401,2,Medium,3,Better,3,High,3,High,3,Excellent,3,High
+402,3,High,2,Good,4,Very High,1,Low,3,Excellent,4,Very High
+403,2,Medium,3,Better,3,High,3,High,3,Excellent,2,Medium
+404,2,Medium,3,Better,4,Very High,1,Low,3,Excellent,3,High
+405,3,High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+406,1,Low,3,Better,3,High,1,Low,3,Excellent,3,High
+407,4,Very High,3,Better,2,Medium,3,High,3,Excellent,3,High
+408,1,Low,2,Good,3,High,4,Very High,4,Outstanding,4,Very High
+409,4,Very High,1,Bad,3,High,4,Very High,3,Excellent,4,Very High
+410,1,Low,3,Better,3,High,3,High,3,Excellent,2,Medium
+411,3,High,3,Better,1,Low,4,Very High,4,Outstanding,3,High
+412,1,Low,1,Bad,3,High,1,Low,3,Excellent,4,Very High
+413,3,High,2,Good,3,High,3,High,3,Excellent,3,High
+414,4,Very High,4,Best,2,Medium,4,Very High,3,Excellent,4,Very High
+415,1,Low,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+416,4,Very High,2,Good,1,Low,3,High,3,Excellent,4,Very High
+417,4,Very High,3,Better,3,High,4,Very High,4,Outstanding,3,High
+418,3,High,3,Better,3,High,3,High,3,Excellent,4,Very High
+419,1,Low,1,Bad,3,High,4,Very High,4,Outstanding,2,Medium
+420,3,High,1,Bad,3,High,4,Very High,3,Excellent,3,High
+421,2,Medium,3,Better,2,Medium,3,High,3,Excellent,3,High
+422,3,High,4,Best,2,Medium,2,Medium,3,Excellent,2,Medium
+423,1,Low,4,Best,2,Medium,4,Very High,3,Excellent,3,High
+424,3,High,3,Better,3,High,1,Low,3,Excellent,3,High
+425,1,Low,2,Good,2,Medium,4,Very High,3,Excellent,3,High
+426,2,Medium,3,Better,2,Medium,3,High,3,Excellent,2,Medium
+427,3,High,2,Good,3,High,4,Very High,3,Excellent,3,High
+428,3,High,4,Best,2,Medium,1,Low,3,Excellent,4,Very High
+429,1,Low,3,Better,3,High,4,Very High,3,Excellent,3,High
+430,1,Low,1,Bad,3,High,3,High,3,Excellent,3,High
+431,4,Very High,3,Better,1,Low,3,High,3,Excellent,3,High
+432,3,High,3,Better,3,High,3,High,3,Excellent,3,High
+433,4,Very High,3,Better,2,Medium,3,High,3,Excellent,3,High
+434,3,High,3,Better,2,Medium,4,Very High,3,Excellent,3,High
+435,3,High,4,Best,3,High,2,Medium,4,Outstanding,4,Very High
+436,2,Medium,4,Best,3,High,3,High,3,Excellent,4,Very High
+437,1,Low,3,Better,1,Low,4,Very High,3,Excellent,1,Low
+438,4,Very High,3,Better,3,High,2,Medium,3,Excellent,1,Low
+439,4,Very High,3,Better,3,High,3,High,3,Excellent,3,High
+440,1,Low,3,Better,3,High,3,High,3,Excellent,1,Low
+441,2,Medium,3,Better,3,High,1,Low,3,Excellent,3,High
+442,2,Medium,3,Better,3,High,3,High,3,Excellent,4,Very High
+443,2,Medium,2,Good,3,High,4,Very High,3,Excellent,4,Very High
+444,3,High,3,Better,2,Medium,3,High,3,Excellent,3,High
+445,2,Medium,3,Better,3,High,4,Very High,3,Excellent,1,Low
+446,1,Low,3,Better,3,High,2,Medium,4,Outstanding,4,Very High
+447,4,Very High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+448,2,Medium,3,Better,3,High,3,High,3,Excellent,3,High
+449,2,Medium,3,Better,3,High,3,High,3,Excellent,3,High
+450,3,High,3,Better,3,High,3,High,3,Excellent,1,Low
+451,2,Medium,4,Best,3,High,4,Very High,3,Excellent,3,High
+452,4,Very High,2,Good,3,High,1,Low,4,Outstanding,4,Very High
+453,4,Very High,4,Best,3,High,2,Medium,3,Excellent,2,Medium
+454,2,Medium,2,Good,3,High,3,High,3,Excellent,2,Medium
+455,4,Very High,4,Best,3,High,4,Very High,3,Excellent,2,Medium
+456,1,Low,3,Better,4,Very High,3,High,3,Excellent,3,High
+457,3,High,2,Good,2,Medium,4,Very High,4,Outstanding,3,High
+458,2,Medium,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+459,3,High,3,Better,1,Low,1,Low,3,Excellent,3,High
+460,1,Low,3,Better,2,Medium,3,High,3,Excellent,1,Low
+461,1,Low,3,Better,3,High,3,High,3,Excellent,1,Low
+462,1,Low,3,Better,3,High,3,High,3,Excellent,4,Very High
+463,4,Very High,3,Better,4,Very High,4,Very High,3,Excellent,4,Very High
+464,3,High,1,Bad,1,Low,4,Very High,3,Excellent,2,Medium
+465,2,Medium,4,Best,3,High,4,Very High,3,Excellent,4,Very High
+466,1,Low,2,Good,3,High,3,High,3,Excellent,4,Very High
+467,2,Medium,3,Better,3,High,1,Low,3,Excellent,2,Medium
+468,1,Low,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+469,4,Very High,3,Better,3,High,1,Low,3,Excellent,2,Medium
+470,4,Very High,3,Better,4,Very High,3,High,3,Excellent,4,Very High
+471,4,Very High,3,Better,3,High,4,Very High,3,Excellent,3,High
+472,3,High,3,Better,3,High,3,High,3,Excellent,3,High
+473,2,Medium,2,Good,3,High,2,Medium,3,Excellent,2,Medium
+474,4,Very High,3,Better,2,Medium,3,High,3,Excellent,3,High
+475,2,Medium,3,Better,4,Very High,4,Very High,3,Excellent,2,Medium
+476,1,Low,4,Best,3,High,2,Medium,4,Outstanding,4,Very High
+477,4,Very High,3,Better,2,Medium,2,Medium,4,Outstanding,4,Very High
+478,1,Low,3,Better,3,High,2,Medium,3,Excellent,3,High
+479,2,Medium,3,Better,3,High,3,High,3,Excellent,3,High
+480,1,Low,3,Better,3,High,3,High,3,Excellent,4,Very High
+481,2,Medium,4,Best,2,Medium,1,Low,3,Excellent,3,High
+482,2,Medium,3,Better,2,Medium,4,Very High,3,Excellent,4,Very High
+483,2,Medium,1,Bad,3,High,1,Low,3,Excellent,3,High
+484,1,Low,3,Better,2,Medium,4,Very High,3,Excellent,4,Very High
+485,1,Low,4,Best,4,Very High,4,Very High,4,Outstanding,4,Very High
+486,1,Low,2,Good,2,Medium,3,High,3,Excellent,3,High
+487,4,Very High,2,Good,3,High,3,High,3,Excellent,3,High
+488,4,Very High,4,Best,2,Medium,2,Medium,3,Excellent,4,Very High
+489,3,High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+490,2,Medium,2,Good,2,Medium,4,Very High,3,Excellent,3,High
+491,3,High,2,Good,3,High,1,Low,3,Excellent,4,Very High
+492,4,Very High,3,Better,3,High,3,High,3,Excellent,2,Medium
+493,4,Very High,1,Bad,2,Medium,1,Low,3,Excellent,1,Low
+494,1,Low,4,Best,2,Medium,3,High,3,Excellent,2,Medium
+495,3,High,3,Better,3,High,3,High,3,Excellent,4,Very High
+496,3,High,3,Better,3,High,1,Low,3,Excellent,2,Medium
+497,3,High,3,Better,3,High,3,High,3,Excellent,3,High
+498,4,Very High,4,Best,3,High,4,Very High,3,Excellent,1,Low
+499,1,Low,3,Better,3,High,3,High,4,Outstanding,4,Very High
+500,3,High,3,Better,3,High,3,High,3,Excellent,4,Very High
+501,1,Low,2,Good,3,High,4,Very High,3,Excellent,4,Very High
+502,3,High,3,Better,3,High,3,High,4,Outstanding,3,High
+503,4,Very High,4,Best,3,High,1,Low,4,Outstanding,4,Very High
+504,2,Medium,2,Good,3,High,4,Very High,3,Excellent,4,Very High
+505,1,Low,3,Better,3,High,1,Low,3,Excellent,4,Very High
+506,3,High,3,Better,3,High,4,Very High,3,Excellent,3,High
+507,3,High,3,Better,3,High,3,High,3,Excellent,3,High
+508,2,Medium,2,Good,3,High,3,High,3,Excellent,1,Low
+509,2,Medium,3,Better,1,Low,4,Very High,3,Excellent,2,Medium
+510,3,High,1,Bad,3,High,4,Very High,4,Outstanding,3,High
+511,3,High,4,Best,3,High,2,Medium,3,Excellent,3,High
+512,2,Medium,3,Better,2,Medium,2,Medium,3,Excellent,3,High
+513,1,Low,3,Better,2,Medium,4,Very High,3,Excellent,4,Very High
+514,4,Very High,3,Better,3,High,3,High,3,Excellent,4,Very High
+515,1,Low,3,Better,3,High,1,Low,3,Excellent,1,Low
+516,3,High,3,Better,2,Medium,3,High,3,Excellent,3,High
+517,1,Low,4,Best,4,Very High,1,Low,3,Excellent,1,Low
+518,4,Very High,3,Better,4,Very High,2,Medium,4,Outstanding,3,High
+519,4,Very High,3,Better,2,Medium,4,Very High,4,Outstanding,1,Low
+520,2,Medium,3,Better,1,Low,4,Very High,3,Excellent,4,Very High
+521,2,Medium,3,Better,4,Very High,2,Medium,3,Excellent,4,Very High
+522,4,Very High,3,Better,4,Very High,4,Very High,4,Outstanding,2,Medium
+523,4,Very High,3,Better,4,Very High,4,Very High,3,Excellent,1,Low
+524,4,Very High,3,Better,4,Very High,3,High,3,Excellent,3,High
+525,4,Very High,4,Best,2,Medium,2,Medium,3,Excellent,2,Medium
+526,1,Low,3,Better,3,High,3,High,3,Excellent,1,Low
+527,4,Very High,3,Better,2,Medium,3,High,3,Excellent,1,Low
+528,4,Very High,2,Good,3,High,4,Very High,3,Excellent,4,Very High
+529,2,Medium,3,Better,3,High,3,High,3,Excellent,1,Low
+530,2,Medium,2,Good,4,Very High,4,Very High,3,Excellent,3,High
+531,3,High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+532,3,High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+533,4,Very High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+534,4,Very High,3,Better,2,Medium,1,Low,4,Outstanding,3,High
+535,3,High,3,Better,4,Very High,3,High,3,Excellent,3,High
+536,2,Medium,2,Good,2,Medium,4,Very High,3,Excellent,2,Medium
+537,1,Low,3,Better,3,High,1,Low,3,Excellent,4,Very High
+538,4,Very High,2,Good,3,High,1,Low,4,Outstanding,3,High
+539,4,Very High,3,Better,2,Medium,3,High,3,Excellent,2,Medium
+540,4,Very High,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+541,1,Low,3,Better,1,Low,2,Medium,3,Excellent,4,Very High
+542,1,Low,3,Better,4,Very High,1,Low,3,Excellent,1,Low
+543,3,High,4,Best,3,High,3,High,3,Excellent,4,Very High
+544,1,Low,3,Better,1,Low,3,High,3,Excellent,3,High
+545,4,Very High,2,Good,3,High,3,High,3,Excellent,4,Very High
+546,3,High,2,Good,3,High,4,Very High,4,Outstanding,4,Very High
+547,3,High,3,Better,3,High,3,High,3,Excellent,3,High
+548,3,High,3,Better,4,Very High,3,High,3,Excellent,4,Very High
+549,4,Very High,3,Better,2,Medium,4,Very High,3,Excellent,3,High
+550,2,Medium,3,Better,3,High,3,High,3,Excellent,4,Very High
+551,2,Medium,4,Best,3,High,1,Low,3,Excellent,4,Very High
+552,3,High,1,Bad,4,Very High,2,Medium,3,Excellent,3,High
+553,3,High,2,Good,3,High,4,Very High,3,Excellent,3,High
+554,4,Very High,2,Good,2,Medium,4,Very High,4,Outstanding,4,Very High
+555,4,Very High,1,Bad,2,Medium,1,Low,3,Excellent,1,Low
+556,4,Very High,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+557,4,Very High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+558,4,Very High,4,Best,3,High,1,Low,3,Excellent,1,Low
+559,1,Low,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+560,4,Very High,1,Bad,3,High,3,High,3,Excellent,2,Medium
+561,2,Medium,3,Better,3,High,1,Low,3,Excellent,3,High
+562,3,High,4,Best,2,Medium,1,Low,3,Excellent,1,Low
+563,4,Very High,2,Good,3,High,4,Very High,3,Excellent,3,High
+564,3,High,2,Good,3,High,4,Very High,4,Outstanding,2,Medium
+565,2,Medium,3,Better,1,Low,3,High,3,Excellent,1,Low
+566,1,Low,3,Better,4,Very High,3,High,3,Excellent,4,Very High
+567,2,Medium,3,Better,4,Very High,3,High,3,Excellent,4,Very High
+568,4,Very High,3,Better,3,High,4,Very High,4,Outstanding,3,High
+569,4,Very High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+570,1,Low,3,Better,2,Medium,1,Low,3,Excellent,2,Medium
+571,4,Very High,3,Better,3,High,4,Very High,3,Excellent,1,Low
+572,1,Low,3,Better,1,Low,4,Very High,3,Excellent,1,Low
+573,2,Medium,2,Good,3,High,3,High,3,Excellent,1,Low
+574,4,Very High,2,Good,2,Medium,1,Low,3,Excellent,3,High
+575,2,Medium,3,Better,4,Very High,4,Very High,3,Excellent,3,High
+576,4,Very High,3,Better,3,High,1,Low,3,Excellent,2,Medium
+577,3,High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+578,4,Very High,2,Good,3,High,1,Low,3,Excellent,2,Medium
+579,1,Low,3,Better,4,Very High,1,Low,3,Excellent,4,Very High
+580,3,High,3,Better,2,Medium,1,Low,3,Excellent,3,High
+581,1,Low,2,Good,3,High,4,Very High,3,Excellent,2,Medium
+582,4,Very High,3,Better,1,Low,3,High,4,Outstanding,3,High
+583,3,High,3,Better,4,Very High,2,Medium,4,Outstanding,4,Very High
+584,3,High,3,Better,3,High,1,Low,3,Excellent,2,Medium
+585,2,Medium,2,Good,3,High,4,Very High,3,Excellent,2,Medium
+586,3,High,3,Better,4,Very High,1,Low,4,Outstanding,3,High
+587,3,High,3,Better,2,Medium,2,Medium,3,Excellent,3,High
+588,4,Very High,3,Better,3,High,3,High,4,Outstanding,2,Medium
+589,3,High,3,Better,3,High,3,High,3,Excellent,4,Very High
+590,2,Medium,3,Better,2,Medium,1,Low,3,Excellent,4,Very High
+591,3,High,4,Best,3,High,3,High,3,Excellent,4,Very High
+592,1,Low,3,Better,3,High,1,Low,3,Excellent,3,High
+593,3,High,2,Good,3,High,4,Very High,3,Excellent,3,High
+594,3,High,3,Better,3,High,2,Medium,3,Excellent,1,Low
+595,3,High,3,Better,4,Very High,3,High,4,Outstanding,3,High
+596,4,Very High,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+597,4,Very High,3,Better,4,Very High,3,High,3,Excellent,3,High
+598,4,Very High,3,Better,2,Medium,4,Very High,3,Excellent,4,Very High
+599,3,High,2,Good,3,High,3,High,3,Excellent,4,Very High
+600,3,High,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+601,3,High,3,Better,2,Medium,3,High,3,Excellent,3,High
+602,1,Low,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+603,3,High,2,Good,2,Medium,4,Very High,4,Outstanding,2,Medium
+604,2,Medium,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+605,2,Medium,2,Good,3,High,2,Medium,3,Excellent,4,Very High
+606,1,Low,2,Good,2,Medium,1,Low,3,Excellent,3,High
+607,3,High,3,Better,2,Medium,4,Very High,3,Excellent,3,High
+608,3,High,4,Best,3,High,4,Very High,3,Excellent,1,Low
+609,3,High,2,Good,3,High,4,Very High,3,Excellent,3,High
+610,2,Medium,3,Better,3,High,1,Low,4,Outstanding,3,High
+611,3,High,3,Better,2,Medium,4,Very High,3,Excellent,2,Medium
+612,3,High,4,Best,3,High,3,High,4,Outstanding,2,Medium
+613,2,Medium,3,Better,3,High,2,Medium,4,Outstanding,1,Low
+614,3,High,1,Bad,3,High,4,Very High,3,Excellent,3,High
+615,3,High,3,Better,2,Medium,3,High,3,Excellent,1,Low
+616,4,Very High,2,Good,3,High,4,Very High,3,Excellent,3,High
+617,1,Low,2,Good,3,High,3,High,3,Excellent,3,High
+618,4,Very High,2,Good,3,High,2,Medium,3,Excellent,4,Very High
+619,1,Low,2,Good,4,Very High,1,Low,3,Excellent,3,High
+620,1,Low,3,Better,4,Very High,1,Low,4,Outstanding,1,Low
+621,3,High,2,Good,2,Medium,1,Low,3,Excellent,4,Very High
+622,2,Medium,2,Good,3,High,4,Very High,3,Excellent,4,Very High
+623,2,Medium,2,Good,3,High,4,Very High,3,Excellent,3,High
+624,2,Medium,2,Good,2,Medium,4,Very High,3,Excellent,2,Medium
+625,1,Low,3,Better,2,Medium,4,Very High,3,Excellent,4,Very High
+626,4,Very High,3,Better,3,High,1,Low,3,Excellent,3,High
+627,3,High,2,Good,4,Very High,3,High,3,Excellent,3,High
+628,3,High,3,Better,2,Medium,4,Very High,4,Outstanding,3,High
+629,4,Very High,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+630,2,Medium,3,Better,2,Medium,4,Very High,3,Excellent,4,Very High
+631,4,Very High,1,Bad,2,Medium,4,Very High,4,Outstanding,1,Low
+632,1,Low,2,Good,4,Very High,4,Very High,4,Outstanding,3,High
+633,2,Medium,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+634,1,Low,3,Better,2,Medium,1,Low,4,Outstanding,3,High
+635,3,High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+636,4,Very High,3,Better,2,Medium,3,High,4,Outstanding,2,Medium
+637,4,Very High,2,Good,3,High,2,Medium,3,Excellent,1,Low
+638,4,Very High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+639,3,High,4,Best,2,Medium,1,Low,3,Excellent,1,Low
+640,3,High,3,Better,3,High,1,Low,3,Excellent,2,Medium
+641,1,Low,2,Good,2,Medium,4,Very High,3,Excellent,4,Very High
+642,2,Medium,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+643,2,Medium,3,Better,2,Medium,2,Medium,3,Excellent,4,Very High
+644,3,High,2,Good,4,Very High,4,Very High,3,Excellent,2,Medium
+645,4,Very High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+646,2,Medium,3,Better,2,Medium,3,High,3,Excellent,3,High
+647,1,Low,3,Better,3,High,4,Very High,3,Excellent,3,High
+648,4,Very High,3,Better,2,Medium,2,Medium,3,Excellent,1,Low
+649,3,High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+650,4,Very High,3,Better,3,High,4,Very High,3,Excellent,3,High
+651,4,Very High,2,Good,3,High,4,Very High,3,Excellent,2,Medium
+652,3,High,3,Better,3,High,4,Very High,4,Outstanding,1,Low
+653,1,Low,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+654,1,Low,3,Better,3,High,1,Low,3,Excellent,4,Very High
+655,4,Very High,3,Better,2,Medium,4,Very High,3,Excellent,3,High
+656,4,Very High,4,Best,3,High,2,Medium,3,Excellent,3,High
+657,1,Low,1,Bad,3,High,4,Very High,4,Outstanding,3,High
+658,1,Low,3,Better,2,Medium,4,Very High,3,Excellent,3,High
+659,2,Medium,3,Better,3,High,1,Low,3,Excellent,4,Very High
+660,1,Low,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+661,4,Very High,2,Good,2,Medium,4,Very High,3,Excellent,4,Very High
+662,1,Low,4,Best,3,High,2,Medium,4,Outstanding,3,High
+663,3,High,2,Good,2,Medium,3,High,3,Excellent,4,Very High
+664,4,Very High,2,Good,3,High,4,Very High,3,Excellent,1,Low
+665,3,High,2,Good,3,High,4,Very High,3,Excellent,1,Low
+666,4,Very High,2,Good,2,Medium,4,Very High,3,Excellent,1,Low
+667,2,Medium,4,Best,3,High,3,High,3,Excellent,1,Low
+668,2,Medium,2,Good,1,Low,4,Very High,3,Excellent,3,High
+669,3,High,3,Better,3,High,3,High,3,Excellent,2,Medium
+670,4,Very High,1,Bad,3,High,1,Low,4,Outstanding,4,Very High
+671,2,Medium,3,Better,3,High,3,High,3,Excellent,3,High
+672,2,Medium,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+673,3,High,3,Better,2,Medium,3,High,3,Excellent,1,Low
+674,3,High,3,Better,2,Medium,1,Low,3,Excellent,2,Medium
+675,3,High,3,Better,2,Medium,2,Medium,3,Excellent,4,Very High
+676,2,Medium,4,Best,2,Medium,3,High,3,Excellent,2,Medium
+677,4,Very High,1,Bad,3,High,4,Very High,4,Outstanding,4,Very High
+678,1,Low,2,Good,3,High,2,Medium,3,Excellent,3,High
+679,4,Very High,2,Good,3,High,3,High,3,Excellent,1,Low
+680,4,Very High,2,Good,3,High,3,High,3,Excellent,4,Very High
+681,2,Medium,3,Better,3,High,4,Very High,3,Excellent,3,High
+682,4,Very High,3,Better,3,High,1,Low,3,Excellent,2,Medium
+683,3,High,3,Better,2,Medium,2,Medium,4,Outstanding,3,High
+684,3,High,3,Better,2,Medium,2,Medium,3,Excellent,3,High
+685,1,Low,2,Good,2,Medium,2,Medium,3,Excellent,2,Medium
+686,3,High,3,Better,2,Medium,1,Low,3,Excellent,2,Medium
+687,4,Very High,3,Better,3,High,1,Low,3,Excellent,3,High
+688,3,High,3,Better,3,High,3,High,4,Outstanding,3,High
+689,4,Very High,4,Best,2,Medium,2,Medium,3,Excellent,2,Medium
+690,1,Low,3,Better,3,High,1,Low,3,Excellent,2,Medium
+691,4,Very High,1,Bad,3,High,4,Very High,3,Excellent,3,High
+692,4,Very High,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+693,3,High,4,Best,3,High,1,Low,3,Excellent,3,High
+694,3,High,3,Better,2,Medium,4,Very High,3,Excellent,1,Low
+695,2,Medium,3,Better,2,Medium,4,Very High,3,Excellent,1,Low
+696,1,Low,1,Bad,2,Medium,3,High,3,Excellent,3,High
+697,3,High,2,Good,3,High,2,Medium,3,Excellent,2,Medium
+698,3,High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+699,3,High,3,Better,3,High,3,High,3,Excellent,2,Medium
+700,4,Very High,2,Good,3,High,4,Very High,3,Excellent,2,Medium
+701,4,Very High,3,Better,3,High,3,High,4,Outstanding,1,Low
+702,3,High,4,Best,3,High,3,High,3,Excellent,3,High
+703,3,High,4,Best,3,High,3,High,3,Excellent,1,Low
+704,3,High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+705,4,Very High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+706,1,Low,3,Better,4,Very High,3,High,3,Excellent,4,Very High
+707,2,Medium,2,Good,4,Very High,2,Medium,3,Excellent,4,Very High
+708,3,High,4,Best,4,Very High,3,High,3,Excellent,3,High
+709,1,Low,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+710,3,High,3,Better,2,Medium,1,Low,4,Outstanding,1,Low
+711,4,Very High,3,Better,3,High,3,High,3,Excellent,4,Very High
+712,4,Very High,3,Better,2,Medium,1,Low,4,Outstanding,3,High
+713,2,Medium,3,Better,3,High,4,Very High,3,Excellent,1,Low
+714,4,Very High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+715,4,Very High,2,Good,3,High,4,Very High,4,Outstanding,3,High
+716,3,High,3,Better,4,Very High,2,Medium,3,Excellent,1,Low
+717,1,Low,4,Best,3,High,3,High,3,Excellent,2,Medium
+718,3,High,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+719,4,Very High,3,Better,3,High,1,Low,3,Excellent,3,High
+720,4,Very High,3,Better,3,High,4,Very High,3,Excellent,3,High
+721,1,Low,3,Better,3,High,3,High,3,Excellent,2,Medium
+722,4,Very High,3,Better,3,High,3,High,3,Excellent,4,Very High
+723,3,High,2,Good,3,High,3,High,3,Excellent,2,Medium
+724,4,Very High,3,Better,3,High,3,High,3,Excellent,2,Medium
+725,4,Very High,3,Better,2,Medium,3,High,3,Excellent,2,Medium
+726,3,High,1,Bad,2,Medium,2,Medium,4,Outstanding,4,Very High
+727,3,High,3,Better,3,High,1,Low,3,Excellent,3,High
+728,2,Medium,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+729,3,High,3,Better,3,High,3,High,3,Excellent,3,High
+730,3,High,2,Good,3,High,3,High,3,Excellent,3,High
+731,2,Medium,2,Good,4,Very High,1,Low,3,Excellent,3,High
+732,4,Very High,3,Better,2,Medium,1,Low,3,Excellent,1,Low
+733,2,Medium,3,Better,3,High,2,Medium,3,Excellent,1,Low
+734,4,Very High,3,Better,4,Very High,4,Very High,3,Excellent,2,Medium
+735,2,Medium,2,Good,1,Low,1,Low,3,Excellent,1,Low
+736,1,Low,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+737,3,High,3,Better,2,Medium,3,High,3,Excellent,2,Medium
+738,4,Very High,3,Better,3,High,3,High,3,Excellent,2,Medium
+739,4,Very High,3,Better,2,Medium,4,Very High,3,Excellent,3,High
+740,1,Low,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+741,2,Medium,2,Good,3,High,4,Very High,4,Outstanding,1,Low
+742,4,Very High,4,Best,3,High,3,High,3,Excellent,2,Medium
+743,1,Low,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+744,3,High,3,Better,2,Medium,4,Very High,3,Excellent,1,Low
+745,1,Low,1,Bad,1,Low,2,Medium,3,Excellent,1,Low
+746,3,High,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+747,2,Medium,3,Better,1,Low,3,High,4,Outstanding,2,Medium
+748,2,Medium,3,Better,3,High,4,Very High,3,Excellent,3,High
+749,2,Medium,3,Better,1,Low,1,Low,3,Excellent,4,Very High
+750,1,Low,3,Better,1,Low,4,Very High,3,Excellent,4,Very High
+751,4,Very High,3,Better,4,Very High,4,Very High,3,Excellent,3,High
+752,4,Very High,3,Better,3,High,3,High,3,Excellent,1,Low
+753,3,High,3,Better,4,Very High,1,Low,3,Excellent,3,High
+754,4,Very High,3,Better,3,High,1,Low,3,Excellent,3,High
+755,2,Medium,2,Good,2,Medium,4,Very High,3,Excellent,4,Very High
+756,4,Very High,4,Best,3,High,4,Very High,3,Excellent,2,Medium
+757,4,Very High,3,Better,3,High,3,High,3,Excellent,2,Medium
+758,2,Medium,2,Good,4,Very High,4,Very High,3,Excellent,4,Very High
+759,2,Medium,1,Bad,3,High,4,Very High,3,Excellent,3,High
+760,2,Medium,3,Better,3,High,2,Medium,3,Excellent,1,Low
+761,3,High,3,Better,2,Medium,2,Medium,3,Excellent,1,Low
+762,1,Low,2,Good,3,High,3,High,3,Excellent,2,Medium
+763,1,Low,3,Better,3,High,1,Low,3,Excellent,2,Medium
+764,3,High,3,Better,3,High,3,High,3,Excellent,4,Very High
+765,4,Very High,3,Better,3,High,2,Medium,4,Outstanding,2,Medium
+766,3,High,3,Better,3,High,3,High,3,Excellent,1,Low
+767,2,Medium,2,Good,3,High,3,High,3,Excellent,4,Very High
+768,4,Very High,2,Good,3,High,2,Medium,3,Excellent,1,Low
+769,3,High,2,Good,3,High,1,Low,3,Excellent,2,Medium
+770,1,Low,3,Better,2,Medium,3,High,3,Excellent,3,High
+771,4,Very High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+772,3,High,3,Better,2,Medium,3,High,3,Excellent,2,Medium
+773,1,Low,3,Better,3,High,3,High,3,Excellent,2,Medium
+774,4,Very High,2,Good,2,Medium,4,Very High,3,Excellent,2,Medium
+775,3,High,4,Best,2,Medium,1,Low,3,Excellent,2,Medium
+776,3,High,3,Better,2,Medium,4,Very High,3,Excellent,3,High
+777,4,Very High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+778,3,High,2,Good,2,Medium,1,Low,3,Excellent,1,Low
+779,4,Very High,3,Better,2,Medium,1,Low,4,Outstanding,1,Low
+780,1,Low,4,Best,3,High,3,High,3,Excellent,3,High
+781,2,Medium,2,Good,2,Medium,1,Low,3,Excellent,1,Low
+782,1,Low,3,Better,2,Medium,1,Low,3,Excellent,1,Low
+783,3,High,2,Good,3,High,1,Low,3,Excellent,3,High
+784,2,Medium,3,Better,4,Very High,3,High,3,Excellent,3,High
+785,3,High,2,Good,2,Medium,3,High,3,Excellent,1,Low
+786,1,Low,3,Better,3,High,4,Very High,4,Outstanding,4,Very High
+787,1,Low,3,Better,1,Low,3,High,3,Excellent,4,Very High
+788,4,Very High,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+789,3,High,4,Best,3,High,3,High,3,Excellent,4,Very High
+790,2,Medium,3,Better,2,Medium,1,Low,3,Excellent,4,Very High
+791,4,Very High,3,Better,2,Medium,4,Very High,3,Excellent,3,High
+792,4,Very High,3,Better,3,High,1,Low,4,Outstanding,1,Low
+793,1,Low,3,Better,2,Medium,3,High,4,Outstanding,2,Medium
+794,1,Low,2,Good,3,High,3,High,3,Excellent,4,Very High
+795,1,Low,2,Good,3,High,4,Very High,3,Excellent,3,High
+796,4,Very High,3,Better,2,Medium,4,Very High,3,Excellent,3,High
+797,4,Very High,4,Best,3,High,4,Very High,3,Excellent,2,Medium
+798,1,Low,2,Good,3,High,3,High,4,Outstanding,3,High
+799,1,Low,3,Better,2,Medium,2,Medium,4,Outstanding,2,Medium
+800,4,Very High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+801,1,Low,3,Better,2,Medium,2,Medium,3,Excellent,1,Low
+802,4,Very High,3,Better,3,High,3,High,3,Excellent,4,Very High
+803,4,Very High,3,Better,3,High,2,Medium,3,Excellent,3,High
+804,3,High,3,Better,2,Medium,4,Very High,3,Excellent,4,Very High
+805,1,Low,2,Good,4,Very High,4,Very High,4,Outstanding,3,High
+806,2,Medium,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+807,2,Medium,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+808,3,High,3,Better,2,Medium,3,High,3,Excellent,2,Medium
+809,3,High,3,Better,3,High,4,Very High,4,Outstanding,1,Low
+810,4,Very High,2,Good,3,High,2,Medium,3,Excellent,2,Medium
+811,1,Low,3,Better,3,High,3,High,3,Excellent,4,Very High
+812,4,Very High,3,Better,3,High,2,Medium,3,Excellent,3,High
+813,3,High,3,Better,3,High,1,Low,3,Excellent,3,High
+814,1,Low,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+815,3,High,4,Best,2,Medium,3,High,3,Excellent,1,Low
+816,4,Very High,4,Best,2,Medium,2,Medium,3,Excellent,3,High
+817,3,High,2,Good,3,High,2,Medium,3,Excellent,3,High
+818,1,Low,3,Better,3,High,4,Very High,4,Outstanding,1,Low
+819,3,High,3,Better,4,Very High,4,Very High,3,Excellent,1,Low
+820,1,Low,1,Bad,2,Medium,2,Medium,3,Excellent,1,Low
+821,4,Very High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+822,4,Very High,3,Better,2,Medium,2,Medium,3,Excellent,2,Medium
+823,4,Very High,2,Good,3,High,3,High,3,Excellent,4,Very High
+824,4,Very High,2,Good,3,High,2,Medium,3,Excellent,4,Very High
+825,2,Medium,3,Better,1,Low,4,Very High,3,Excellent,1,Low
+826,2,Medium,2,Good,2,Medium,4,Very High,3,Excellent,3,High
+827,3,High,4,Best,4,Very High,3,High,3,Excellent,4,Very High
+828,3,High,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+829,3,High,3,Better,3,High,3,High,3,Excellent,4,Very High
+830,1,Low,3,Better,3,High,1,Low,3,Excellent,1,Low
+831,2,Medium,3,Better,3,High,4,Very High,3,Excellent,1,Low
+832,3,High,2,Good,3,High,3,High,3,Excellent,3,High
+833,3,High,3,Better,2,Medium,4,Very High,3,Excellent,3,High
+834,4,Very High,3,Better,2,Medium,3,High,3,Excellent,3,High
+835,2,Medium,2,Good,3,High,3,High,4,Outstanding,1,Low
+836,3,High,1,Bad,3,High,3,High,3,Excellent,2,Medium
+837,4,Very High,1,Bad,2,Medium,1,Low,3,Excellent,1,Low
+838,2,Medium,2,Good,3,High,3,High,3,Excellent,3,High
+839,3,High,2,Good,3,High,1,Low,3,Excellent,2,Medium
+840,2,Medium,4,Best,3,High,1,Low,3,Excellent,4,Very High
+841,4,Very High,3,Better,2,Medium,3,High,3,Excellent,2,Medium
+842,4,Very High,3,Better,3,High,2,Medium,4,Outstanding,4,Very High
+843,3,High,2,Good,3,High,4,Very High,3,Excellent,4,Very High
+844,1,Low,3,Better,4,Very High,4,Very High,4,Outstanding,2,Medium
+845,3,High,3,Better,2,Medium,3,High,3,Excellent,1,Low
+846,3,High,1,Bad,2,Medium,4,Very High,3,Excellent,4,Very High
+847,3,High,4,Best,2,Medium,2,Medium,3,Excellent,2,Medium
+848,4,Very High,3,Better,2,Medium,1,Low,4,Outstanding,3,High
+849,4,Very High,4,Best,2,Medium,4,Very High,3,Excellent,2,Medium
+850,1,Low,2,Good,1,Low,3,High,3,Excellent,2,Medium
+851,3,High,3,Better,3,High,1,Low,3,Excellent,3,High
+852,4,Very High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+853,2,Medium,3,Better,3,High,4,Very High,3,Excellent,1,Low
+854,3,High,3,Better,3,High,1,Low,4,Outstanding,3,High
+855,1,Low,2,Good,3,High,3,High,3,Excellent,3,High
+856,4,Very High,2,Good,2,Medium,4,Very High,3,Excellent,2,Medium
+857,1,Low,2,Good,2,Medium,3,High,3,Excellent,1,Low
+858,3,High,3,Better,3,High,3,High,3,Excellent,3,High
+859,4,Very High,3,Better,3,High,3,High,3,Excellent,2,Medium
+860,2,Medium,2,Good,1,Low,4,Very High,3,Excellent,1,Low
+861,3,High,3,Better,2,Medium,4,Very High,3,Excellent,2,Medium
+862,3,High,3,Better,3,High,1,Low,4,Outstanding,1,Low
+863,4,Very High,3,Better,1,Low,3,High,3,Excellent,4,Very High
+864,2,Medium,3,Better,3,High,3,High,3,Excellent,4,Very High
+865,1,Low,1,Bad,2,Medium,1,Low,3,Excellent,1,Low
+866,3,High,3,Better,3,High,1,Low,3,Excellent,3,High
+867,2,Medium,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+868,4,Very High,3,Better,3,High,1,Low,4,Outstanding,3,High
+869,4,Very High,3,Better,2,Medium,1,Low,3,Excellent,3,High
+870,4,Very High,3,Better,3,High,2,Medium,3,Excellent,1,Low
+871,3,High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+872,4,Very High,1,Bad,3,High,2,Medium,3,Excellent,1,Low
+873,2,Medium,2,Good,3,High,3,High,3,Excellent,1,Low
+874,3,High,3,Better,1,Low,3,High,3,Excellent,3,High
+875,3,High,2,Good,3,High,3,High,3,Excellent,1,Low
+876,4,Very High,3,Better,3,High,4,Very High,4,Outstanding,2,Medium
+877,3,High,3,Better,4,Very High,4,Very High,3,Excellent,4,Very High
+878,4,Very High,2,Good,3,High,4,Very High,3,Excellent,3,High
+879,4,Very High,4,Best,4,Very High,1,Low,3,Excellent,1,Low
+880,2,Medium,3,Better,4,Very High,4,Very High,3,Excellent,2,Medium
+881,3,High,3,Better,2,Medium,2,Medium,4,Outstanding,3,High
+882,4,Very High,3,Better,3,High,3,High,3,Excellent,4,Very High
+883,3,High,3,Better,1,Low,1,Low,4,Outstanding,3,High
+884,1,Low,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+885,2,Medium,4,Best,2,Medium,2,Medium,3,Excellent,2,Medium
+886,3,High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+887,4,Very High,3,Better,3,High,2,Medium,4,Outstanding,1,Low
+888,1,Low,3,Better,3,High,1,Low,3,Excellent,3,High
+889,3,High,2,Good,2,Medium,4,Very High,3,Excellent,2,Medium
+890,1,Low,2,Good,3,High,1,Low,3,Excellent,4,Very High
+891,4,Very High,1,Bad,3,High,3,High,3,Excellent,1,Low
+892,1,Low,3,Better,4,Very High,4,Very High,3,Excellent,4,Very High
+893,1,Low,4,Best,2,Medium,2,Medium,4,Outstanding,2,Medium
+894,1,Low,3,Better,3,High,4,Very High,3,Excellent,1,Low
+895,4,Very High,3,Better,3,High,4,Very High,3,Excellent,1,Low
+896,3,High,2,Good,3,High,1,Low,3,Excellent,4,Very High
+897,3,High,3,Better,2,Medium,1,Low,3,Excellent,2,Medium
+898,3,High,3,Better,2,Medium,4,Very High,3,Excellent,4,Very High
+899,3,High,3,Better,1,Low,4,Very High,3,Excellent,2,Medium
+900,1,Low,4,Best,2,Medium,3,High,3,Excellent,3,High
+901,3,High,2,Good,3,High,2,Medium,3,Excellent,3,High
+902,4,Very High,2,Good,4,Very High,2,Medium,3,Excellent,3,High
+903,1,Low,3,Better,3,High,3,High,3,Excellent,2,Medium
+904,3,High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+905,4,Very High,4,Best,2,Medium,4,Very High,3,Excellent,3,High
+906,4,Very High,2,Good,2,Medium,4,Very High,3,Excellent,2,Medium
+907,3,High,2,Good,4,Very High,3,High,3,Excellent,4,Very High
+908,2,Medium,3,Better,3,High,2,Medium,3,Excellent,3,High
+909,4,Very High,3,Better,4,Very High,3,High,3,Excellent,4,Very High
+910,2,Medium,3,Better,4,Very High,4,Very High,3,Excellent,4,Very High
+911,4,Very High,3,Better,3,High,3,High,4,Outstanding,4,Very High
+912,3,High,3,Better,1,Low,4,Very High,3,Excellent,4,Very High
+913,3,High,2,Good,3,High,4,Very High,4,Outstanding,2,Medium
+914,1,Low,3,Better,1,Low,2,Medium,3,Excellent,1,Low
+915,4,Very High,3,Better,2,Medium,2,Medium,3,Excellent,4,Very High
+916,1,Low,1,Bad,2,Medium,3,High,4,Outstanding,3,High
+917,4,Very High,3,Better,2,Medium,2,Medium,3,Excellent,3,High
+918,3,High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+919,4,Very High,2,Good,3,High,2,Medium,4,Outstanding,1,Low
+920,4,Very High,2,Good,3,High,4,Very High,3,Excellent,4,Very High
+921,3,High,4,Best,3,High,2,Medium,3,Excellent,3,High
+922,4,Very High,2,Good,3,High,3,High,3,Excellent,3,High
+923,3,High,2,Good,4,Very High,1,Low,3,Excellent,4,Very High
+924,3,High,4,Best,2,Medium,2,Medium,3,Excellent,4,Very High
+925,3,High,3,Better,3,High,3,High,3,Excellent,4,Very High
+926,2,Medium,3,Better,4,Very High,2,Medium,3,Excellent,4,Very High
+927,4,Very High,4,Best,2,Medium,4,Very High,3,Excellent,4,Very High
+928,3,High,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+929,1,Low,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+930,4,Very High,3,Better,2,Medium,4,Very High,3,Excellent,2,Medium
+931,2,Medium,2,Good,2,Medium,3,High,3,Excellent,2,Medium
+932,3,High,3,Better,3,High,3,High,3,Excellent,3,High
+933,2,Medium,3,Better,3,High,3,High,3,Excellent,1,Low
+934,4,Very High,2,Good,3,High,1,Low,3,Excellent,2,Medium
+935,4,Very High,2,Good,3,High,2,Medium,3,Excellent,4,Very High
+936,3,High,4,Best,4,Very High,4,Very High,3,Excellent,3,High
+937,2,Medium,3,Better,3,High,2,Medium,4,Outstanding,3,High
+938,3,High,3,Better,2,Medium,2,Medium,3,Excellent,4,Very High
+939,1,Low,3,Better,3,High,3,High,3,Excellent,4,Very High
+940,4,Very High,3,Better,3,High,3,High,3,Excellent,1,Low
+941,3,High,3,Better,3,High,1,Low,3,Excellent,1,Low
+942,1,Low,3,Better,2,Medium,4,Very High,3,Excellent,1,Low
+943,4,Very High,3,Better,3,High,3,High,3,Excellent,1,Low
+944,4,Very High,4,Best,3,High,1,Low,3,Excellent,3,High
+945,3,High,3,Better,1,Low,4,Very High,3,Excellent,1,Low
+946,4,Very High,3,Better,3,High,1,Low,3,Excellent,2,Medium
+947,4,Very High,3,Better,2,Medium,2,Medium,3,Excellent,3,High
+948,2,Medium,2,Good,3,High,2,Medium,3,Excellent,3,High
+949,2,Medium,3,Better,3,High,1,Low,4,Outstanding,4,Very High
+950,1,Low,3,Better,3,High,3,High,3,Excellent,1,Low
+951,4,Very High,2,Good,3,High,3,High,3,Excellent,1,Low
+952,3,High,3,Better,1,Low,2,Medium,3,Excellent,1,Low
+953,4,Very High,4,Best,3,High,2,Medium,3,Excellent,1,Low
+954,1,Low,4,Best,3,High,1,Low,3,Excellent,3,High
+955,3,High,2,Good,3,High,3,High,3,Excellent,4,Very High
+956,4,Very High,3,Better,1,Low,3,High,3,Excellent,4,Very High
+957,4,Very High,3,Better,3,High,2,Medium,3,Excellent,1,Low
+958,3,High,3,Better,3,High,3,High,3,Excellent,2,Medium
+959,4,Very High,2,Good,3,High,4,Very High,3,Excellent,4,Very High
+960,3,High,3,Better,3,High,4,Very High,3,Excellent,3,High
+961,3,High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+962,3,High,3,Better,3,High,3,High,3,Excellent,2,Medium
+963,3,High,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+964,2,Medium,3,Better,3,High,1,Low,3,Excellent,4,Very High
+965,3,High,4,Best,3,High,1,Low,3,Excellent,4,Very High
+966,4,Very High,2,Good,3,High,4,Very High,3,Excellent,3,High
+967,3,High,2,Good,2,Medium,1,Low,3,Excellent,4,Very High
+968,2,Medium,3,Better,3,High,2,Medium,4,Outstanding,3,High
+969,1,Low,2,Good,4,Very High,1,Low,3,Excellent,4,Very High
+970,4,Very High,3,Better,3,High,4,Very High,3,Excellent,3,High
+971,3,High,3,Better,4,Very High,4,Very High,3,Excellent,2,Medium
+972,4,Very High,2,Good,2,Medium,2,Medium,3,Excellent,2,Medium
+973,4,Very High,4,Best,3,High,4,Very High,3,Excellent,3,High
+974,4,Very High,3,Better,2,Medium,4,Very High,3,Excellent,2,Medium
+975,4,Very High,3,Better,1,Low,4,Very High,4,Outstanding,2,Medium
+976,1,Low,2,Good,4,Very High,3,High,3,Excellent,3,High
+977,4,Very High,3,Better,3,High,2,Medium,3,Excellent,1,Low
+978,1,Low,3,Better,2,Medium,3,High,4,Outstanding,3,High
+979,2,Medium,3,Better,4,Very High,3,High,4,Outstanding,2,Medium
+980,2,Medium,3,Better,3,High,3,High,3,Excellent,1,Low
+981,3,High,4,Best,2,Medium,4,Very High,3,Excellent,3,High
+982,4,Very High,2,Good,3,High,3,High,3,Excellent,3,High
+983,4,Very High,3,Better,4,Very High,3,High,3,Excellent,4,Very High
+984,3,High,4,Best,3,High,4,Very High,3,Excellent,4,Very High
+985,3,High,3,Better,2,Medium,1,Low,3,Excellent,3,High
+986,4,Very High,2,Good,3,High,3,High,3,Excellent,4,Very High
+987,1,Low,4,Best,2,Medium,4,Very High,3,Excellent,4,Very High
+988,2,Medium,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+989,4,Very High,2,Good,3,High,4,Very High,3,Excellent,1,Low
+990,3,High,3,Better,3,High,3,High,3,Excellent,4,Very High
+991,2,Medium,4,Best,3,High,4,Very High,3,Excellent,1,Low
+992,3,High,2,Good,3,High,2,Medium,3,Excellent,1,Low
+993,3,High,3,Better,3,High,3,High,4,Outstanding,2,Medium
+994,1,Low,2,Good,4,Very High,3,High,3,Excellent,2,Medium
+995,4,Very High,2,Good,4,Very High,3,High,3,Excellent,2,Medium
+996,1,Low,1,Bad,2,Medium,3,High,3,Excellent,1,Low
+997,4,Very High,3,Better,2,Medium,4,Very High,3,Excellent,4,Very High
+998,4,Very High,3,Better,3,High,3,High,3,Excellent,4,Very High
+999,1,Low,3,Better,2,Medium,4,Very High,3,Excellent,4,Very High
+1000,3,High,3,Better,3,High,1,Low,3,Excellent,3,High
+1001,3,High,1,Bad,3,High,1,Low,3,Excellent,3,High
+1002,1,Low,3,Better,3,High,3,High,3,Excellent,1,Low
+1003,3,High,3,Better,3,High,4,Very High,3,Excellent,3,High
+1004,1,Low,2,Good,3,High,4,Very High,3,Excellent,2,Medium
+1005,3,High,3,Better,4,Very High,1,Low,3,Excellent,4,Very High
+1006,2,Medium,2,Good,2,Medium,1,Low,3,Excellent,1,Low
+1007,1,Low,3,Better,2,Medium,1,Low,4,Outstanding,1,Low
+1008,3,High,3,Better,3,High,4,Very High,3,Excellent,1,Low
+1009,4,Very High,2,Good,3,High,4,Very High,3,Excellent,4,Very High
+1010,4,Very High,3,Better,3,High,1,Low,4,Outstanding,3,High
+1011,2,Medium,4,Best,4,Very High,4,Very High,3,Excellent,4,Very High
+1012,1,Low,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+1013,2,Medium,3,Better,1,Low,3,High,3,Excellent,2,Medium
+1014,4,Very High,3,Better,3,High,1,Low,3,Excellent,2,Medium
+1015,1,Low,4,Best,3,High,2,Medium,3,Excellent,3,High
+1016,4,Very High,3,Better,3,High,1,Low,3,Excellent,3,High
+1017,1,Low,4,Best,2,Medium,2,Medium,3,Excellent,3,High
+1018,2,Medium,4,Best,3,High,1,Low,3,Excellent,2,Medium
+1019,1,Low,2,Good,2,Medium,4,Very High,3,Excellent,3,High
+1020,3,High,2,Good,2,Medium,1,Low,3,Excellent,1,Low
+1021,1,Low,2,Good,3,High,4,Very High,3,Excellent,3,High
+1022,1,Low,3,Better,2,Medium,1,Low,3,Excellent,1,Low
+1023,3,High,1,Bad,4,Very High,3,High,3,Excellent,1,Low
+1024,1,Low,4,Best,3,High,1,Low,4,Outstanding,4,Very High
+1025,1,Low,4,Best,3,High,3,High,3,Excellent,2,Medium
+1026,4,Very High,3,Better,3,High,3,High,3,Excellent,3,High
+1027,4,Very High,2,Good,3,High,4,Very High,3,Excellent,3,High
+1028,4,Very High,2,Good,2,Medium,2,Medium,3,Excellent,1,Low
+1029,2,Medium,2,Good,4,Very High,3,High,3,Excellent,1,Low
+1030,3,High,4,Best,3,High,3,High,3,Excellent,3,High
+1031,1,Low,3,Better,3,High,4,Very High,3,Excellent,1,Low
+1032,1,Low,4,Best,3,High,4,Very High,3,Excellent,1,Low
+1033,1,Low,4,Best,2,Medium,1,Low,4,Outstanding,2,Medium
+1034,3,High,3,Better,4,Very High,2,Medium,3,Excellent,1,Low
+1035,2,Medium,3,Better,1,Low,1,Low,3,Excellent,2,Medium
+1036,4,Very High,3,Better,4,Very High,2,Medium,3,Excellent,4,Very High
+1037,2,Medium,1,Bad,3,High,4,Very High,3,Excellent,3,High
+1038,2,Medium,4,Best,3,High,4,Very High,3,Excellent,4,Very High
+1039,3,High,3,Better,3,High,1,Low,3,Excellent,1,Low
+1040,1,Low,3,Better,3,High,3,High,3,Excellent,4,Very High
+1041,4,Very High,3,Better,2,Medium,2,Medium,3,Excellent,3,High
+1042,4,Very High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+1043,3,High,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+1044,4,Very High,2,Good,4,Very High,2,Medium,3,Excellent,2,Medium
+1045,1,Low,2,Good,3,High,3,High,3,Excellent,2,Medium
+1046,3,High,4,Best,3,High,3,High,3,Excellent,3,High
+1047,4,Very High,2,Good,3,High,2,Medium,3,Excellent,3,High
+1048,4,Very High,3,Better,3,High,1,Low,3,Excellent,1,Low
+1049,4,Very High,3,Better,1,Low,1,Low,3,Excellent,4,Very High
+1050,4,Very High,2,Good,3,High,3,High,3,Excellent,3,High
+1051,1,Low,3,Better,3,High,4,Very High,3,Excellent,3,High
+1052,1,Low,2,Good,3,High,3,High,3,Excellent,3,High
+1053,3,High,2,Good,3,High,3,High,3,Excellent,2,Medium
+1054,2,Medium,2,Good,4,Very High,3,High,4,Outstanding,1,Low
+1055,3,High,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+1056,2,Medium,2,Good,3,High,1,Low,3,Excellent,4,Very High
+1057,1,Low,4,Best,3,High,3,High,3,Excellent,4,Very High
+1058,1,Low,1,Bad,3,High,2,Medium,3,Excellent,1,Low
+1059,1,Low,4,Best,2,Medium,2,Medium,4,Outstanding,3,High
+1060,4,Very High,3,Better,3,High,3,High,3,Excellent,1,Low
+1061,2,Medium,2,Good,3,High,1,Low,3,Excellent,3,High
+1062,4,Very High,3,Better,3,High,2,Medium,3,Excellent,3,High
+1063,2,Medium,2,Good,3,High,3,High,3,Excellent,2,Medium
+1064,3,High,3,Better,2,Medium,3,High,3,Excellent,3,High
+1065,3,High,4,Best,3,High,3,High,4,Outstanding,1,Low
+1066,4,Very High,3,Better,3,High,3,High,3,Excellent,2,Medium
+1067,1,Low,3,Better,2,Medium,2,Medium,3,Excellent,4,Very High
+1068,3,High,2,Good,3,High,3,High,3,Excellent,3,High
+1069,3,High,2,Good,2,Medium,1,Low,3,Excellent,3,High
+1070,1,Low,1,Bad,2,Medium,3,High,3,Excellent,4,Very High
+1071,3,High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+1072,3,High,3,Better,2,Medium,1,Low,4,Outstanding,1,Low
+1073,4,Very High,3,Better,3,High,2,Medium,3,Excellent,3,High
+1074,3,High,2,Good,1,Low,2,Medium,3,Excellent,2,Medium
+1075,4,Very High,3,Better,3,High,3,High,3,Excellent,1,Low
+1076,3,High,4,Best,3,High,4,Very High,4,Outstanding,2,Medium
+1077,2,Medium,3,Better,3,High,4,Very High,4,Outstanding,1,Low
+1078,1,Low,1,Bad,2,Medium,1,Low,3,Excellent,3,High
+1079,4,Very High,4,Best,3,High,1,Low,3,Excellent,3,High
+1080,2,Medium,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+1081,3,High,4,Best,3,High,2,Medium,3,Excellent,4,Very High
+1082,4,Very High,1,Bad,2,Medium,2,Medium,3,Excellent,4,Very High
+1083,1,Low,3,Better,3,High,3,High,3,Excellent,2,Medium
+1084,4,Very High,1,Bad,3,High,1,Low,3,Excellent,2,Medium
+1085,4,Very High,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+1086,4,Very High,1,Bad,3,High,3,High,3,Excellent,1,Low
+1087,3,High,3,Better,1,Low,4,Very High,3,Excellent,4,Very High
+1088,2,Medium,3,Better,3,High,3,High,4,Outstanding,2,Medium
+1089,3,High,3,Better,2,Medium,2,Medium,3,Excellent,2,Medium
+1090,1,Low,3,Better,3,High,4,Very High,3,Excellent,1,Low
+1091,3,High,3,Better,1,Low,1,Low,3,Excellent,3,High
+1092,4,Very High,3,Better,2,Medium,2,Medium,3,Excellent,4,Very High
+1093,4,Very High,3,Better,3,High,4,Very High,4,Outstanding,4,Very High
+1094,4,Very High,1,Bad,3,High,4,Very High,3,Excellent,3,High
+1095,1,Low,4,Best,3,High,1,Low,3,Excellent,4,Very High
+1096,2,Medium,3,Better,3,High,3,High,3,Excellent,2,Medium
+1097,3,High,3,Better,3,High,4,Very High,4,Outstanding,4,Very High
+1098,3,High,3,Better,2,Medium,1,Low,3,Excellent,2,Medium
+1099,4,Very High,3,Better,3,High,4,Very High,3,Excellent,3,High
+1100,1,Low,3,Better,3,High,2,Medium,3,Excellent,1,Low
+1101,2,Medium,3,Better,2,Medium,3,High,4,Outstanding,1,Low
+1102,4,Very High,3,Better,2,Medium,2,Medium,3,Excellent,1,Low
+1103,3,High,2,Good,3,High,4,Very High,4,Outstanding,4,Very High
+1104,3,High,3,Better,3,High,3,High,3,Excellent,3,High
+1105,3,High,2,Good,4,Very High,3,High,3,Excellent,1,Low
+1106,1,Low,1,Bad,3,High,1,Low,3,Excellent,4,Very High
+1107,2,Medium,3,Better,2,Medium,1,Low,3,Excellent,4,Very High
+1108,3,High,3,Better,3,High,3,High,3,Excellent,3,High
+1109,4,Very High,3,Better,2,Medium,1,Low,3,Excellent,2,Medium
+1110,3,High,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+1111,1,Low,3,Better,3,High,1,Low,3,Excellent,4,Very High
+1112,3,High,3,Better,2,Medium,4,Very High,3,Excellent,2,Medium
+1113,3,High,3,Better,3,High,2,Medium,3,Excellent,1,Low
+1114,4,Very High,2,Good,3,High,1,Low,3,Excellent,2,Medium
+1115,3,High,2,Good,3,High,1,Low,3,Excellent,4,Very High
+1116,1,Low,1,Bad,3,High,4,Very High,3,Excellent,3,High
+1117,3,High,3,Better,2,Medium,4,Very High,4,Outstanding,3,High
+1118,2,Medium,2,Good,3,High,4,Very High,3,Excellent,2,Medium
+1119,1,Low,3,Better,3,High,4,Very High,4,Outstanding,1,Low
+1120,3,High,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+1121,2,Medium,4,Best,3,High,2,Medium,3,Excellent,2,Medium
+1122,2,Medium,3,Better,3,High,3,High,3,Excellent,1,Low
+1123,2,Medium,3,Better,3,High,1,Low,3,Excellent,4,Very High
+1124,1,Low,3,Better,3,High,3,High,3,Excellent,3,High
+1125,4,Very High,3,Better,4,Very High,3,High,3,Excellent,1,Low
+1126,1,Low,4,Best,3,High,4,Very High,3,Excellent,4,Very High
+1127,3,High,3,Better,3,High,3,High,3,Excellent,3,High
+1128,4,Very High,3,Better,4,Very High,3,High,3,Excellent,4,Very High
+1129,1,Low,3,Better,4,Very High,1,Low,3,Excellent,4,Very High
+1130,4,Very High,3,Better,2,Medium,4,Very High,4,Outstanding,4,Very High
+1131,2,Medium,2,Good,4,Very High,3,High,3,Excellent,4,Very High
+1132,4,Very High,2,Good,2,Medium,3,High,3,Excellent,2,Medium
+1133,4,Very High,3,Better,3,High,1,Low,3,Excellent,3,High
+1134,4,Very High,3,Better,4,Very High,2,Medium,3,Excellent,3,High
+1135,3,High,2,Good,2,Medium,4,Very High,3,Excellent,4,Very High
+1136,4,Very High,1,Bad,4,Very High,1,Low,3,Excellent,2,Medium
+1137,3,High,3,Better,3,High,2,Medium,3,Excellent,3,High
+1138,2,Medium,2,Good,2,Medium,3,High,3,Excellent,2,Medium
+1139,2,Medium,3,Better,3,High,3,High,3,Excellent,3,High
+1140,2,Medium,3,Better,4,Very High,4,Very High,3,Excellent,4,Very High
+1141,2,Medium,2,Good,3,High,4,Very High,3,Excellent,4,Very High
+1142,2,Medium,2,Good,2,Medium,2,Medium,3,Excellent,2,Medium
+1143,3,High,3,Better,1,Low,1,Low,3,Excellent,1,Low
+1144,1,Low,3,Better,2,Medium,1,Low,3,Excellent,1,Low
+1145,4,Very High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+1146,3,High,3,Better,3,High,3,High,3,Excellent,2,Medium
+1147,3,High,3,Better,4,Very High,4,Very High,3,Excellent,1,Low
+1148,3,High,2,Good,3,High,1,Low,3,Excellent,4,Very High
+1149,2,Medium,3,Better,3,High,1,Low,3,Excellent,4,Very High
+1150,4,Very High,3,Better,2,Medium,1,Low,3,Excellent,1,Low
+1151,2,Medium,3,Better,4,Very High,1,Low,3,Excellent,4,Very High
+1152,2,Medium,2,Good,1,Low,1,Low,4,Outstanding,2,Medium
+1153,3,High,3,Better,3,High,4,Very High,3,Excellent,3,High
+1154,2,Medium,4,Best,3,High,4,Very High,3,Excellent,3,High
+1155,4,Very High,3,Better,3,High,3,High,3,Excellent,3,High
+1156,3,High,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+1157,1,Low,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+1158,3,High,3,Better,3,High,3,High,3,Excellent,4,Very High
+1159,3,High,2,Good,3,High,3,High,3,Excellent,1,Low
+1160,1,Low,1,Bad,3,High,3,High,3,Excellent,4,Very High
+1161,4,Very High,3,Better,2,Medium,4,Very High,3,Excellent,1,Low
+1162,4,Very High,4,Best,2,Medium,3,High,3,Excellent,4,Very High
+1163,4,Very High,3,Better,2,Medium,1,Low,3,Excellent,3,High
+1164,2,Medium,1,Bad,3,High,2,Medium,3,Excellent,1,Low
+1165,3,High,2,Good,3,High,4,Very High,3,Excellent,4,Very High
+1166,1,Low,3,Better,3,High,4,Very High,3,Excellent,3,High
+1167,3,High,3,Better,2,Medium,4,Very High,4,Outstanding,2,Medium
+1168,1,Low,2,Good,1,Low,4,Very High,3,Excellent,4,Very High
+1169,1,Low,3,Better,3,High,4,Very High,3,Excellent,3,High
+1170,2,Medium,3,Better,4,Very High,3,High,3,Excellent,1,Low
+1171,4,Very High,2,Good,3,High,4,Very High,3,Excellent,3,High
+1172,1,Low,1,Bad,3,High,1,Low,3,Excellent,2,Medium
+1173,3,High,3,Better,2,Medium,3,High,3,Excellent,3,High
+1174,2,Medium,3,Better,3,High,1,Low,3,Excellent,3,High
+1175,4,Very High,3,Better,4,Very High,3,High,3,Excellent,3,High
+1176,4,Very High,3,Better,3,High,2,Medium,4,Outstanding,3,High
+1177,1,Low,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+1178,4,Very High,3,Better,2,Medium,1,Low,3,Excellent,3,High
+1179,3,High,3,Better,3,High,3,High,3,Excellent,1,Low
+1180,4,Very High,3,Better,3,High,2,Medium,3,Excellent,3,High
+1181,1,Low,3,Better,3,High,2,Medium,3,Excellent,3,High
+1182,3,High,3,Better,2,Medium,3,High,3,Excellent,2,Medium
+1183,4,Very High,3,Better,2,Medium,3,High,3,Excellent,3,High
+1184,4,Very High,3,Better,4,Very High,1,Low,4,Outstanding,1,Low
+1185,2,Medium,3,Better,3,High,3,High,4,Outstanding,3,High
+1186,3,High,3,Better,2,Medium,3,High,4,Outstanding,1,Low
+1187,4,Very High,4,Best,3,High,4,Very High,4,Outstanding,1,Low
+1188,4,Very High,4,Best,3,High,4,Very High,3,Excellent,4,Very High
+1189,1,Low,2,Good,2,Medium,2,Medium,3,Excellent,2,Medium
+1190,4,Very High,3,Better,3,High,4,Very High,3,Excellent,3,High
+1191,4,Very High,2,Good,3,High,2,Medium,3,Excellent,3,High
+1192,1,Low,3,Better,3,High,4,Very High,3,Excellent,1,Low
+1193,4,Very High,2,Good,3,High,1,Low,3,Excellent,2,Medium
+1194,4,Very High,3,Better,2,Medium,2,Medium,4,Outstanding,2,Medium
+1195,2,Medium,3,Better,4,Very High,2,Medium,3,Excellent,3,High
+1196,3,High,3,Better,3,High,3,High,3,Excellent,1,Low
+1197,4,Very High,3,Better,3,High,3,High,3,Excellent,4,Very High
+1198,4,Very High,3,Better,3,High,1,Low,3,Excellent,1,Low
+1199,3,High,3,Better,3,High,4,Very High,4,Outstanding,3,High
+1200,1,Low,2,Good,3,High,3,High,3,Excellent,2,Medium
+1201,3,High,3,Better,3,High,4,Very High,3,Excellent,1,Low
+1202,4,Very High,3,Better,2,Medium,3,High,3,Excellent,1,Low
+1203,4,Very High,2,Good,3,High,3,High,3,Excellent,4,Very High
+1204,2,Medium,3,Better,4,Very High,4,Very High,3,Excellent,3,High
+1205,4,Very High,3,Better,3,High,3,High,3,Excellent,3,High
+1206,4,Very High,3,Better,3,High,2,Medium,3,Excellent,1,Low
+1207,4,Very High,3,Better,3,High,4,Very High,4,Outstanding,3,High
+1208,1,Low,3,Better,2,Medium,2,Medium,3,Excellent,4,Very High
+1209,2,Medium,4,Best,2,Medium,4,Very High,3,Excellent,3,High
+1210,3,High,4,Best,1,Low,4,Very High,4,Outstanding,3,High
+1211,2,Medium,3,Better,4,Very High,2,Medium,3,Excellent,4,Very High
+1212,3,High,2,Good,1,Low,4,Very High,3,Excellent,3,High
+1213,2,Medium,3,Better,2,Medium,4,Very High,3,Excellent,2,Medium
+1214,3,High,3,Better,3,High,4,Very High,4,Outstanding,2,Medium
+1215,3,High,3,Better,4,Very High,4,Very High,3,Excellent,2,Medium
+1216,1,Low,4,Best,2,Medium,4,Very High,3,Excellent,3,High
+1217,4,Very High,3,Better,3,High,4,Very High,3,Excellent,1,Low
+1218,3,High,3,Better,4,Very High,3,High,3,Excellent,4,Very High
+1219,4,Very High,3,Better,3,High,3,High,3,Excellent,2,Medium
+1220,4,Very High,3,Better,3,High,3,High,3,Excellent,3,High
+1221,3,High,2,Good,3,High,4,Very High,3,Excellent,3,High
+1222,3,High,2,Good,2,Medium,3,High,4,Outstanding,4,Very High
+1223,4,Very High,3,Better,1,Low,3,High,3,Excellent,3,High
+1224,3,High,1,Bad,1,Low,3,High,3,Excellent,3,High
+1225,4,Very High,4,Best,1,Low,3,High,3,Excellent,3,High
+1226,4,Very High,3,Better,2,Medium,2,Medium,3,Excellent,3,High
+1227,1,Low,2,Good,3,High,3,High,3,Excellent,1,Low
+1228,2,Medium,4,Best,3,High,3,High,3,Excellent,4,Very High
+1229,3,High,3,Better,1,Low,2,Medium,3,Excellent,2,Medium
+1230,2,Medium,3,Better,3,High,1,Low,3,Excellent,2,Medium
+1231,2,Medium,4,Best,3,High,1,Low,3,Excellent,2,Medium
+1232,3,High,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+1233,4,Very High,3,Better,3,High,3,High,3,Excellent,2,Medium
+1234,2,Medium,2,Good,3,High,4,Very High,3,Excellent,2,Medium
+1235,3,High,1,Bad,3,High,2,Medium,3,Excellent,4,Very High
+1236,3,High,2,Good,3,High,4,Very High,3,Excellent,2,Medium
+1237,2,Medium,3,Better,2,Medium,1,Low,3,Excellent,2,Medium
+1238,1,Low,3,Better,1,Low,2,Medium,3,Excellent,2,Medium
+1239,3,High,1,Bad,3,High,2,Medium,3,Excellent,3,High
+1240,4,Very High,2,Good,3,High,4,Very High,4,Outstanding,4,Very High
+1241,4,Very High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+1242,4,Very High,1,Bad,1,Low,3,High,3,Excellent,3,High
+1243,2,Medium,2,Good,3,High,2,Medium,3,Excellent,2,Medium
+1244,3,High,4,Best,1,Low,3,High,4,Outstanding,3,High
+1245,4,Very High,3,Better,2,Medium,1,Low,3,Excellent,4,Very High
+1246,1,Low,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+1247,3,High,2,Good,2,Medium,4,Very High,3,Excellent,3,High
+1248,1,Low,3,Better,3,High,3,High,3,Excellent,3,High
+1249,3,High,2,Good,3,High,4,Very High,3,Excellent,3,High
+1250,2,Medium,3,Better,1,Low,2,Medium,3,Excellent,3,High
+1251,4,Very High,4,Best,4,Very High,3,High,3,Excellent,4,Very High
+1252,3,High,3,Better,2,Medium,1,Low,3,Excellent,1,Low
+1253,4,Very High,3,Better,4,Very High,4,Very High,3,Excellent,1,Low
+1254,4,Very High,2,Good,3,High,2,Medium,3,Excellent,4,Very High
+1255,4,Very High,4,Best,3,High,4,Very High,3,Excellent,3,High
+1256,1,Low,2,Good,3,High,1,Low,4,Outstanding,3,High
+1257,3,High,2,Good,2,Medium,2,Medium,3,Excellent,2,Medium
+1258,1,Low,3,Better,3,High,3,High,3,Excellent,1,Low
+1259,4,Very High,3,Better,2,Medium,1,Low,3,Excellent,3,High
+1260,3,High,3,Better,4,Very High,3,High,3,Excellent,3,High
+1261,2,Medium,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+1262,2,Medium,3,Better,1,Low,4,Very High,3,Excellent,3,High
+1263,3,High,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+1264,2,Medium,2,Good,3,High,2,Medium,4,Outstanding,2,Medium
+1265,3,High,3,Better,2,Medium,1,Low,3,Excellent,2,Medium
+1266,4,Very High,2,Good,3,High,2,Medium,3,Excellent,4,Very High
+1267,3,High,3,Better,3,High,1,Low,4,Outstanding,2,Medium
+1268,4,Very High,3,Better,3,High,3,High,3,Excellent,3,High
+1269,1,Low,2,Good,2,Medium,3,High,4,Outstanding,4,Very High
+1270,2,Medium,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+1271,4,Very High,3,Better,1,Low,4,Very High,3,Excellent,1,Low
+1272,2,Medium,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+1273,4,Very High,3,Better,2,Medium,3,High,3,Excellent,2,Medium
+1274,3,High,3,Better,3,High,1,Low,3,Excellent,3,High
+1275,1,Low,3,Better,2,Medium,4,Very High,3,Excellent,1,Low
+1276,1,Low,3,Better,3,High,3,High,3,Excellent,4,Very High
+1277,2,Medium,3,Better,2,Medium,2,Medium,3,Excellent,1,Low
+1278,3,High,3,Better,3,High,4,Very High,3,Excellent,3,High
+1279,4,Very High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+1280,3,High,2,Good,3,High,2,Medium,3,Excellent,3,High
+1281,3,High,2,Good,3,High,2,Medium,3,Excellent,3,High
+1282,3,High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+1283,4,Very High,3,Better,4,Very High,1,Low,3,Excellent,2,Medium
+1284,3,High,4,Best,3,High,4,Very High,3,Excellent,3,High
+1285,3,High,3,Better,3,High,3,High,4,Outstanding,3,High
+1286,2,Medium,3,Better,2,Medium,2,Medium,3,Excellent,3,High
+1287,3,High,2,Good,3,High,1,Low,3,Excellent,4,Very High
+1288,2,Medium,2,Good,4,Very High,1,Low,3,Excellent,3,High
+1289,2,Medium,3,Better,3,High,4,Very High,3,Excellent,3,High
+1290,1,Low,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+1291,4,Very High,2,Good,3,High,1,Low,3,Excellent,3,High
+1292,4,Very High,1,Bad,3,High,1,Low,3,Excellent,2,Medium
+1293,3,High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+1294,1,Low,2,Good,3,High,3,High,3,Excellent,3,High
+1295,2,Medium,1,Bad,4,Very High,2,Medium,3,Excellent,1,Low
+1296,3,High,4,Best,3,High,3,High,3,Excellent,4,Very High
+1297,1,Low,3,Better,3,High,3,High,3,Excellent,2,Medium
+1298,4,Very High,3,Better,3,High,2,Medium,3,Excellent,3,High
+1299,4,Very High,4,Best,3,High,2,Medium,4,Outstanding,4,Very High
+1300,3,High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+1301,2,Medium,3,Better,4,Very High,3,High,4,Outstanding,3,High
+1302,2,Medium,2,Good,3,High,2,Medium,4,Outstanding,4,Very High
+1303,2,Medium,4,Best,1,Low,3,High,3,Excellent,2,Medium
+1304,3,High,3,Better,2,Medium,2,Medium,3,Excellent,3,High
+1305,2,Medium,3,Better,3,High,1,Low,3,Excellent,2,Medium
+1306,4,Very High,2,Good,3,High,4,Very High,3,Excellent,2,Medium
+1307,1,Low,3,Better,3,High,1,Low,3,Excellent,4,Very High
+1308,3,High,3,Better,3,High,1,Low,4,Outstanding,3,High
+1309,2,Medium,2,Good,1,Low,4,Very High,4,Outstanding,1,Low
+1310,3,High,3,Better,3,High,4,Very High,3,Excellent,1,Low
+1311,1,Low,3,Better,3,High,3,High,3,Excellent,2,Medium
+1312,2,Medium,1,Bad,3,High,3,High,3,Excellent,3,High
+1313,4,Very High,3,Better,4,Very High,1,Low,3,Excellent,3,High
+1314,1,Low,3,Better,2,Medium,1,Low,3,Excellent,4,Very High
+1315,3,High,4,Best,3,High,3,High,4,Outstanding,2,Medium
+1316,4,Very High,3,Better,3,High,2,Medium,4,Outstanding,4,Very High
+1317,1,Low,3,Better,3,High,4,Very High,4,Outstanding,3,High
+1318,4,Very High,2,Good,3,High,4,Very High,3,Excellent,3,High
+1319,4,Very High,4,Best,3,High,4,Very High,3,Excellent,2,Medium
+1320,4,Very High,4,Best,3,High,4,Very High,3,Excellent,3,High
+1321,3,High,2,Good,3,High,3,High,4,Outstanding,2,Medium
+1322,2,Medium,3,Better,3,High,3,High,3,Excellent,3,High
+1323,4,Very High,2,Good,3,High,4,Very High,3,Excellent,3,High
+1324,3,High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+1325,4,Very High,3,Better,1,Low,3,High,3,Excellent,4,Very High
+1326,4,Very High,3,Better,3,High,3,High,3,Excellent,4,Very High
+1327,3,High,2,Good,2,Medium,2,Medium,3,Excellent,3,High
+1328,1,Low,3,Better,4,Very High,1,Low,3,Excellent,4,Very High
+1329,2,Medium,3,Better,2,Medium,3,High,4,Outstanding,4,Very High
+1330,4,Very High,3,Better,2,Medium,2,Medium,3,Excellent,4,Very High
+1331,1,Low,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+1332,4,Very High,3,Better,2,Medium,2,Medium,3,Excellent,4,Very High
+1333,4,Very High,2,Good,2,Medium,4,Very High,4,Outstanding,2,Medium
+1334,3,High,3,Better,3,High,2,Medium,4,Outstanding,3,High
+1335,4,Very High,2,Good,2,Medium,1,Low,3,Excellent,4,Very High
+1336,4,Very High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+1337,2,Medium,4,Best,2,Medium,4,Very High,4,Outstanding,2,Medium
+1338,2,Medium,3,Better,3,High,2,Medium,3,Excellent,4,Very High
+1339,2,Medium,2,Good,3,High,4,Very High,3,Excellent,3,High
+1340,4,Very High,3,Better,3,High,2,Medium,4,Outstanding,1,Low
+1341,2,Medium,3,Better,2,Medium,3,High,3,Excellent,1,Low
+1342,2,Medium,3,Better,3,High,3,High,3,Excellent,1,Low
+1343,3,High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+1344,4,Very High,3,Better,3,High,1,Low,3,Excellent,2,Medium
+1345,4,Very High,3,Better,3,High,1,Low,4,Outstanding,3,High
+1346,4,Very High,3,Better,2,Medium,2,Medium,3,Excellent,4,Very High
+1347,2,Medium,2,Good,2,Medium,4,Very High,3,Excellent,4,Very High
+1348,2,Medium,2,Good,2,Medium,4,Very High,4,Outstanding,4,Very High
+1349,1,Low,3,Better,3,High,1,Low,3,Excellent,1,Low
+1350,2,Medium,2,Good,2,Medium,3,High,3,Excellent,3,High
+1351,1,Low,2,Good,4,Very High,3,High,3,Excellent,2,Medium
+1352,4,Very High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+1353,2,Medium,3,Better,4,Very High,1,Low,3,Excellent,4,Very High
+1354,4,Very High,3,Better,1,Low,1,Low,4,Outstanding,2,Medium
+1355,1,Low,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+1356,3,High,1,Bad,2,Medium,2,Medium,3,Excellent,3,High
+1357,3,High,3,Better,3,High,2,Medium,4,Outstanding,3,High
+1358,3,High,4,Best,3,High,1,Low,3,Excellent,2,Medium
+1359,3,High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+1360,4,Very High,2,Good,2,Medium,4,Very High,3,Excellent,3,High
+1361,1,Low,2,Good,4,Very High,3,High,3,Excellent,2,Medium
+1362,3,High,3,Better,4,Very High,4,Very High,3,Excellent,1,Low
+1363,2,Medium,3,Better,3,High,3,High,3,Excellent,3,High
+1364,2,Medium,2,Good,3,High,3,High,3,Excellent,2,Medium
+1365,3,High,3,Better,2,Medium,4,Very High,3,Excellent,3,High
+1366,3,High,3,Better,4,Very High,1,Low,3,Excellent,4,Very High
+1367,1,Low,3,Better,1,Low,3,High,3,Excellent,3,High
+1368,2,Medium,2,Good,3,High,2,Medium,3,Excellent,3,High
+1369,3,High,3,Better,2,Medium,4,Very High,3,Excellent,2,Medium
+1370,4,Very High,3,Better,3,High,3,High,3,Excellent,4,Very High
+1371,3,High,4,Best,3,High,2,Medium,3,Excellent,3,High
+1372,4,Very High,3,Better,2,Medium,1,Low,3,Excellent,3,High
+1373,1,Low,3,Better,3,High,1,Low,4,Outstanding,4,Very High
+1374,4,Very High,3,Better,2,Medium,2,Medium,3,Excellent,3,High
+1375,4,Very High,2,Good,3,High,4,Very High,3,Excellent,3,High
+1376,1,Low,3,Better,4,Very High,3,High,3,Excellent,1,Low
+1377,2,Medium,4,Best,3,High,4,Very High,3,Excellent,4,Very High
+1378,2,Medium,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+1379,2,Medium,3,Better,3,High,4,Very High,3,Excellent,3,High
+1380,1,Low,3,Better,2,Medium,2,Medium,3,Excellent,1,Low
+1381,2,Medium,1,Bad,3,High,1,Low,3,Excellent,4,Very High
+1382,3,High,2,Good,3,High,3,High,3,Excellent,3,High
+1383,3,High,4,Best,3,High,1,Low,3,Excellent,4,Very High
+1384,1,Low,3,Better,4,Very High,2,Medium,4,Outstanding,2,Medium
+1385,1,Low,2,Good,3,High,4,Very High,4,Outstanding,1,Low
+1386,4,Very High,2,Good,3,High,3,High,3,Excellent,3,High
+1387,3,High,2,Good,3,High,1,Low,3,Excellent,4,Very High
+1388,1,Low,2,Good,3,High,1,Low,3,Excellent,1,Low
+1389,3,High,3,Better,3,High,4,Very High,3,Excellent,2,Medium
+1390,4,Very High,3,Better,1,Low,1,Low,4,Outstanding,2,Medium
+1391,3,High,2,Good,2,Medium,4,Very High,3,Excellent,1,Low
+1392,1,Low,2,Good,2,Medium,1,Low,3,Excellent,1,Low
+1393,3,High,3,Better,3,High,4,Very High,3,Excellent,4,Very High
+1394,4,Very High,3,Better,3,High,4,Very High,3,Excellent,1,Low
+1395,4,Very High,3,Better,2,Medium,4,Very High,4,Outstanding,2,Medium
+1396,1,Low,3,Better,3,High,4,Very High,3,Excellent,3,High
+1397,1,Low,2,Good,3,High,1,Low,3,Excellent,2,Medium
+1398,1,Low,2,Good,3,High,3,High,3,Excellent,3,High
+1399,4,Very High,3,Better,3,High,3,High,4,Outstanding,3,High
+1400,1,Low,3,Better,3,High,3,High,3,Excellent,2,Medium
+1401,4,Very High,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+1402,3,High,3,Better,4,Very High,2,Medium,3,Excellent,1,Low
+1403,4,Very High,3,Better,1,Low,4,Very High,3,Excellent,3,High
+1404,2,Medium,3,Better,3,High,1,Low,3,Excellent,1,Low
+1405,4,Very High,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+1406,3,High,4,Best,3,High,3,High,4,Outstanding,3,High
+1407,3,High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+1408,2,Medium,2,Good,2,Medium,3,High,3,Excellent,2,Medium
+1409,4,Very High,4,Best,3,High,4,Very High,3,Excellent,3,High
+1410,4,Very High,4,Best,3,High,3,High,3,Excellent,1,Low
+1411,2,Medium,3,Better,3,High,2,Medium,3,Excellent,3,High
+1412,3,High,3,Better,3,High,2,Medium,3,Excellent,3,High
+1413,4,Very High,2,Good,3,High,2,Medium,3,Excellent,3,High
+1414,4,Very High,2,Good,3,High,3,High,3,Excellent,3,High
+1415,1,Low,3,Better,3,High,3,High,4,Outstanding,2,Medium
+1416,2,Medium,2,Good,2,Medium,3,High,3,Excellent,3,High
+1417,4,Very High,3,Better,3,High,2,Medium,3,Excellent,1,Low
+1418,1,Low,3,Better,3,High,3,High,3,Excellent,3,High
+1419,1,Low,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+1420,4,Very High,2,Good,3,High,1,Low,3,Excellent,3,High
+1421,4,Very High,3,Better,3,High,4,Very High,4,Outstanding,1,Low
+1422,3,High,1,Bad,3,High,2,Medium,3,Excellent,1,Low
+1423,4,Very High,3,Better,3,High,3,High,3,Excellent,3,High
+1424,4,Very High,4,Best,3,High,3,High,3,Excellent,4,Very High
+1425,2,Medium,3,Better,3,High,3,High,3,Excellent,2,Medium
+1426,2,Medium,3,Better,3,High,4,Very High,3,Excellent,1,Low
+1427,3,High,3,Better,2,Medium,2,Medium,3,Excellent,3,High
+1428,1,Low,2,Good,3,High,4,Very High,3,Excellent,3,High
+1429,2,Medium,3,Better,2,Medium,2,Medium,3,Excellent,2,Medium
+1430,1,Low,3,Better,3,High,4,Very High,3,Excellent,1,Low
+1431,2,Medium,3,Better,1,Low,3,High,3,Excellent,1,Low
+1432,3,High,3,Better,3,High,4,Very High,3,Excellent,3,High
+1433,3,High,3,Better,4,Very High,4,Very High,4,Outstanding,1,Low
+1434,1,Low,2,Good,3,High,3,High,4,Outstanding,2,Medium
+1435,1,Low,2,Good,3,High,4,Very High,3,Excellent,2,Medium
+1436,2,Medium,3,Better,3,High,4,Very High,3,Excellent,3,High
+1437,3,High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+1438,4,Very High,2,Good,3,High,4,Very High,3,Excellent,3,High
+1439,4,Very High,2,Good,3,High,1,Low,3,Excellent,1,Low
+1440,1,Low,3,Better,2,Medium,4,Very High,3,Excellent,3,High
+1441,4,Very High,3,Better,3,High,2,Medium,3,Excellent,2,Medium
+1442,3,High,2,Good,3,High,3,High,4,Outstanding,1,Low
+1443,1,Low,4,Best,3,High,4,Very High,3,Excellent,2,Medium
+1444,1,Low,2,Good,3,High,3,High,3,Excellent,1,Low
+1445,4,Very High,1,Bad,3,High,3,High,3,Excellent,4,Very High
+1446,1,Low,3,Better,2,Medium,2,Medium,4,Outstanding,3,High
+1447,4,Very High,3,Better,2,Medium,3,High,4,Outstanding,4,Very High
+1448,4,Very High,2,Good,1,Low,4,Very High,4,Outstanding,1,Low
+1449,3,High,3,Better,2,Medium,2,Medium,3,Excellent,3,High
+1450,4,Very High,3,Better,3,High,1,Low,3,Excellent,4,Very High
+1451,3,High,3,Better,3,High,4,Very High,3,Excellent,3,High
+1452,1,Low,3,Better,3,High,4,Very High,3,Excellent,3,High
+1453,2,Medium,3,Better,3,High,3,High,3,Excellent,4,Very High
+1454,2,Medium,2,Good,2,Medium,4,Very High,3,Excellent,1,Low
+1455,4,Very High,3,Better,3,High,3,High,3,Excellent,3,High
+1456,3,High,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+1457,3,High,4,Best,3,High,3,High,3,Excellent,4,Very High
+1458,3,High,3,Better,3,High,3,High,3,Excellent,2,Medium
+1459,3,High,3,Better,1,Low,4,Very High,3,Excellent,4,Very High
+1460,4,Very High,3,Better,2,Medium,2,Medium,3,Excellent,1,Low
+1461,4,Very High,1,Bad,2,Medium,1,Low,3,Excellent,2,Medium
+1462,4,Very High,3,Better,2,Medium,1,Low,3,Excellent,2,Medium
+1463,2,Medium,2,Good,2,Medium,4,Very High,3,Excellent,1,Low
+1464,2,Medium,3,Better,3,High,1,Low,3,Excellent,2,Medium
+1465,4,Very High,3,Better,2,Medium,3,High,3,Excellent,4,Very High
+1466,3,High,3,Better,4,Very High,4,Very High,3,Excellent,3,High
+1467,4,Very High,3,Better,2,Medium,1,Low,3,Excellent,1,Low
+1468,2,Medium,3,Better,4,Very High,2,Medium,4,Outstanding,2,Medium
+1469,4,Very High,2,Good,2,Medium,2,Medium,3,Excellent,4,Very High
+1470,2,Medium,4,Best,4,Very High,3,High,3,Excellent,1,Low
