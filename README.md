@@ -1,7 +1,5 @@
 ![image](https://github.com/javicastano77/HR-Attrition/assets/156696799/0bf4cbe1-8426-4564-b8a2-09cf8fee867b)
 
-# HR-Attrition
-
 # Analísis del Employee Attrition
 
 
