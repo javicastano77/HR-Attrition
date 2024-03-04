@@ -13,9 +13,9 @@ Los datos del proyecto provienen de [IBM HR Analytics Employee Attrition & Perfo
 
 En esta dataset original podemos encontrar un detalle amplio de los empleados:
 
-* **Dimensión clasificatoria**: género, edad, nivel de estudios, estado civil
+* **Dimensión clasificatoria**: género, edad, nivel de estudios, estado civil.
 * **Dimensión del puesto**: departamento, role, role level, horas extras, horario standard, etc.
-* **Dimensión del salario**: bruto anual, monthly rate, daily rate
+* **Dimensión del salario**: bruto anual, monthly rate, daily rate.
 * **Dimensión del career**: vida laboral, años en la empresa, años en el role actual, años con el manager actual, etc.
 * **Dimensión del performance**: performance rating, satisfacción el entorno laboral, satisfacción con el role actual, etc.
 
@@ -33,13 +33,13 @@ El proyecto está dividido en 3 objetivos principales:
 
 El proceso que ha marcado el proyecto sería:
 
-* i. Limpieza de los datos: chequeo de valores nulos, duplicados y dtype
+* i. Limpieza de los datos: chequeo de valores nulos, duplicados y dtype.
 * ii. transformación de los datos: mejora de la consistencia, normalización de datos, etc.
 * iii. análisis de las variables: estudio del compartamiento del target en base a las dimensiones del empleado.
 * iv. identificación de la correlación entre variables: identificar aquellos parámetros y condiciones que mayor grado de explicación tienen para la clasificación de los perfiles.
 * v. construcción de visualización: diseñar el modelo de visualización que nos permita analizar en un click qué condiciona el desgaste.
 * vi. análisis detallado del salario: comparativa en ambos perfiles sobre la evolución salarial y las franjas de edad en dónde más habitual es el desgaste.
-* vii. aplicación de modelo de Machine Learning (in progress): entrenar al modelo para establecer una correcta clasificación de perfiles que sufren desgaste
+* vii. aplicación de modelo de Machine Learning (in progress): entrenar al modelo para establecer una correcta clasificación de perfiles que sufren desgaste.
 * viii. aplicación de nuevos parámetros para modificar las clasificación (in progress) : aplicación de variaciones en variables como salario, años en el role actual, etc. y analizar posibles variaciones en variable clasificatoria.
 
 ## 4. Uso
@@ -53,5 +53,7 @@ El dashborad puedes encontrarlo en la carpeta Visualización con 2 views diferen
 Tras la realización del proyecto las principales conclusiones obtenidas serían:
 
 1 - La distribución entre perfiles con desgaste laboral y perfiles que no tiene desgaste laboral no sigue normalidad, existiendo un alto porcentaje de perfiles que no muestran desgaste.
+
 2 - Existen diferencias significativas en ambos perfiles, sobretodo si atendemos a franjas de edad, bruto anual o años acumulados en la compañía y el puesto.
+
 3- Aplicando coeficientes estadísticos, observamos que no existen variables con un alto poder explicativo, salvo las relacionados con el salario percibido.
