@@ -1,4 +1,4 @@
-![image](https://github.com/javicastano77/HR-Attrition/assets/156696799/dea8e822-caa5-44e0-8290-2860951bb846)
+![image](https://github.com/javicastano77/HR-Attrition/assets/156696799/0bf4cbe1-8426-4564-b8a2-09cf8fee867b)
 
 # HR-Attrition
 
